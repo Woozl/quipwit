@@ -8,6 +8,8 @@ const Home: NextPage = () => {
         <title>Quipwit</title>
         <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
+
+      <h1>Quipwit</h1>
     </>
   );
 };

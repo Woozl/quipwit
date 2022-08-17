@@ -3,3 +3,17 @@ body {
   padding: 0;
   margin: 0;
 }
+
+@font-face {
+  font-family: "Bungee Shade";
+  src: url("../public/fonts/BungeeShade-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Rubik Mono One";
+  src: url("../public/fonts/RubikMonoOne-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
