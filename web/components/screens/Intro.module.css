@@ -1,7 +1,7 @@
 .container {
   --font-size: 6rem;
 
-  background-color: #2e294e;
+  background-color: #011638;
   height: 100%;
   width: 100%;
 
@@ -20,4 +20,5 @@
   line-height: var(--font-size);
   letter-spacing: 0.5rem;
   text-align: center;
+  margin-bottom: 48px;
 }
