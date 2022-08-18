@@ -1,4 +1,6 @@
 .container {
+  --font-size: 6rem;
+
   background-color: #2e294e;
   height: 100%;
   width: 100%;
@@ -7,15 +9,15 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 2rem;
+  gap: 32px;
 }
 
 .title {
   color: #d499b9;
   font-family: "Bungee Shade";
   font-weight: 100;
-  font-size: 8rem;
-  letter-spacing: 1rem;
+  font-size: var(--font-size);
+  line-height: var(--font-size);
+  letter-spacing: 0.5rem;
   text-align: center;
-  line-height: 11rem;
 }
