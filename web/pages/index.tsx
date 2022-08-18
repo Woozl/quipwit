@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+import Intro from "../components/screens/Intro";
 
 const Home: NextPage = () => {
   return (
@@ -9,7 +10,7 @@ const Home: NextPage = () => {
         <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Quipwit</h1>
+      <Intro />
     </>
   );
 };

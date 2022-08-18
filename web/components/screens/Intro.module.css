@@ -1,0 +1,15 @@
+.container {
+  background-color: #2e294e;
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  color: #d499b9;
+  font-family: "Bungee Shade";
+  font-weight: 100;
+  font-size: 8rem;
+  letter-spacing: 1rem;
+  text-align: center;
+  line-height: 11rem;
+}
