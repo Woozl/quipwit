@@ -1,0 +1,18 @@
+.container {
+  height: 5rem;
+  width: 350px;
+}
+
+.character {
+  background-color: #e8c1c5;
+  width: 100px;
+  color: #2e294e;
+  font-size: 3rem;
+  line-height: 5rem;
+  border-radius: 16px;
+}
+
+.characterSelected {
+  /* background-color: #d499b9; */
+  background-color: #cba8ac;
+}
