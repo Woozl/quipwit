@@ -1,0 +1,4808 @@
+{
+  "version": {
+    "quiplash": [
+      {
+        "prompt": "A bad campaign slogan for a congressperson",
+        "x": false
+      },
+      {
+        "prompt": "A bad first line for your presidential inauguration speech",
+        "x": false
+      },
+      {
+        "prompt": "A bad thing to say to a cop as he writes you a speeding ticket",
+        "x": false
+      },
+      {
+        "prompt": "A completely wrong way to spell \"Jennifer Aniston\"",
+        "x": false
+      },
+      {
+        "prompt": "A fun thing to do with a bowl of pudding",
+        "x": false
+      },
+      {
+        "prompt": "A fun thing to think about during mediocre sex",
+        "x": true
+      },
+      {
+        "prompt": "A good fake name to use when checking into a hotel",
+        "x": false
+      },
+      {
+        "prompt": "A good place to hide boogers",
+        "x": true
+      },
+      {
+        "prompt": "A good sign that your house is haunted",
+        "x": false
+      },
+      {
+        "prompt": "A good way to get fired",
+        "x": false
+      },
+      {
+        "prompt": "A great name to have on a fake I.D.",
+        "x": false
+      },
+      {
+        "prompt": "A great new invention that starts with \"Automatic\"",
+        "x": false
+      },
+      {
+        "prompt": "A great opening line to start a conversation with a stranger at a party",
+        "x": false
+      },
+      {
+        "prompt": "A name for a brand of designer adult diapers",
+        "x": true
+      },
+      {
+        "prompt": "A not-very-scary name for a pirate",
+        "x": false
+      },
+      {
+        "prompt": "A prank the Supreme Court Justices probably play on each other",
+        "x": false
+      },
+      {
+        "prompt": "A rejected crayon color",
+        "x": false
+      },
+      {
+        "prompt": "A rejected name for a ship in the U.S. Naval Fleet: the USS {0}",
+        "x": false
+      },
+      {
+        "prompt": "A terrible name for a 1930s gangster",
+        "x": false
+      },
+      {
+        "prompt": "A terrifying fortune cookie fortune",
+        "x": false
+      },
+      {
+        "prompt": "A Tweet from a caveman",
+        "x": false
+      },
+      {
+        "prompt": "A tourist attraction in Hell",
+        "x": false
+      },
+      {
+        "prompt": "An angry review you'd give this game (Quiplash)",
+        "x": false
+      },
+      {
+        "prompt": "An item on every pervert's grocery list",
+        "x": true
+      },
+      {
+        "prompt": "Come up with a title for an adult version of any classic video game",
+        "x": true
+      },
+      {
+        "prompt": "Come up with the name of a country that doesn't exist",
+        "x": false
+      },
+      {
+        "prompt": "Fun thing to do if locked in the mall overnight",
+        "x": false
+      },
+      {
+        "prompt": "Graffiti you might find in a kindergarten",
+        "x": false
+      },
+      {
+        "prompt": "If animals took over, an exhibit you'd see at the human zoo",
+        "x": false
+      },
+      {
+        "prompt": "If God has a sense of humor, he welcomes people to heaven by saying, {0}",
+        "x": false
+      },
+      {
+        "prompt": "Jesus's REAL last words",
+        "x": false
+      },
+      {
+        "prompt": "Little-known fact: The government allows peanut butter to contain up to 10% {0}",
+        "x": false
+      },
+      {
+        "prompt": "Name a new movie starring a talking goat who is president of the United States",
+        "x": false
+      },
+      {
+        "prompt": "Name a TV drama about a vampire doctor.",
+        "x": false
+      },
+      {
+        "prompt": "Name the sequel to Titanic if there were one. Titanic 2: _",
+        "x": false
+      },
+      {
+        "prompt": "Name your new haircutting establishment",
+        "x": false
+      },
+      {
+        "prompt": "One place a finger shouldn't go",
+        "x": true
+      },
+      {
+        "prompt": "One thing never to do on a first date",
+        "x": false
+      },
+      {
+        "prompt": "Ozzy Osbourne's Twitter password, probably",
+        "x": false
+      },
+      {
+        "prompt": "Pants would be a whole lot better if they {0}",
+        "x": false
+      },
+      {
+        "prompt": "People wouldn't respect He-Man as much if, to gain his power, he held up his sword and shouted {0}.",
+        "x": false
+      },
+      {
+        "prompt": "Really awful cheerleaders would yell \"{0}\"!",
+        "x": false
+      },
+      {
+        "prompt": "Something you can only do in a Walmart if no one's looking",
+        "x": false
+      },
+      {
+        "prompt": "Something you probably shouldn't bring on a trip to the Sahara desert",
+        "x": false
+      },
+      {
+        "prompt": "Something you shouldn't wear to a job interview",
+        "x": false
+      },
+      {
+        "prompt": "Something you'd be surprised to see a donkey do",
+        "x": false
+      },
+      {
+        "prompt": "The best thing about living in an igloo",
+        "x": false
+      },
+      {
+        "prompt": "The best way to start your day",
+        "x": false
+      },
+      {
+        "prompt": "The crime you would commit if you could get away with it",
+        "x": true
+      },
+      {
+        "prompt": "The first commandment in the new religion you started",
+        "x": false
+      },
+      {
+        "prompt": "The last person you'd consider inviting to your birthday party",
+        "x": false
+      },
+      {
+        "prompt": "The most awesome Guinness World Record to break",
+        "x": false
+      },
+      {
+        "prompt": "The name of a clothing store for overweight leprechauns",
+        "x": false
+      },
+      {
+        "prompt": "The name of a font nobody would ever use",
+        "x": false
+      },
+      {
+        "prompt": "The sound a tree actually makes when it falls and no one is around to hear it",
+        "x": false
+      },
+      {
+        "prompt": "The world's most boring video game",
+        "x": false
+      },
+      {
+        "prompt": "The worst breakfast cereal: {0} Flakes",
+        "x": false
+      },
+      {
+        "prompt": "The worst Halloween costume for a young child",
+        "x": false
+      },
+      {
+        "prompt": "The worst name for a funeral home",
+        "x": false
+      },
+      {
+        "prompt": "The worst name for a rap artist",
+        "x": false
+      },
+      {
+        "prompt": "The worst name for a robot",
+        "x": false
+      },
+      {
+        "prompt": "The worst style pizza is {0}-style pizza",
+        "x": false
+      },
+      {
+        "prompt": "The worst words to say for the opening of a eulogy at a funeral",
+        "x": false
+      },
+      {
+        "prompt": "There's Gryffindor, Ravenclaw, Slytherin, and Hufflepuff, but what's the Hogwarts house few have ever heard of?",
+        "x": false
+      },
+      {
+        "prompt": "Thing you'd be most surprised to have a dentist find in your mouth",
+        "x": true
+      },
+      {
+        "prompt": "What a dog sext might say",
+        "x": true
+      },
+      {
+        "prompt": "What kittens would say if they could talk",
+        "x": false
+      },
+      {
+        "prompt": "What to say to get out of jury duty",
+        "x": false
+      },
+      {
+        "prompt": "What you'd guess is an unadvertised ingredient in most hot dogs",
+        "x": false
+      },
+      {
+        "prompt": "Where do babies come from?",
+        "x": true
+      }
+    ],
+    "quiplash2": [
+      {
+        "prompt": "A brand of cereal for serial killers",
+        "x": true
+      },
+      {
+        "prompt": "A bumper sticker a nudist would have",
+        "x": true
+      },
+      {
+        "prompt": "A new, exciting rule for Monopoly: pass Go and collect {0}",
+        "x": false
+      },
+      {
+        "prompt": "A rejected name for a Crayola color",
+        "x": false
+      },
+      {
+        "prompt": "A rejected title in the Magic School Bus series: \"The Magic School Bus Goes To {0}\"",
+        "x": false
+      },
+      {
+        "prompt": "A time you should absolutely not wear white",
+        "x": false
+      },
+      {
+        "prompt": "A weird surgery that starts with \"Laser\"",
+        "x": false
+      },
+      {
+        "prompt": "A weird thing for a baseball umpire to lean down and say to a catcher",
+        "x": false
+      },
+      {
+        "prompt": "Something a friendly heckler would yell at a comedy show",
+        "x": false
+      },
+      {
+        "prompt": "The Eiffel Tower would be a lot cooler if it had {0}",
+        "x": false
+      },
+      {
+        "prompt": "The most embarrassing thing that could happen at prom",
+        "x": false
+      },
+      {
+        "prompt": "The name of a bar with no bathrooms",
+        "x": false
+      },
+      {
+        "prompt": "The nickname Hitler gave to his moustache, probably",
+        "x": true
+      },
+      {
+        "prompt": "The only thing you can remember from inside the womb",
+        "x": true
+      },
+      {
+        "prompt": "The dumbest use of science would be to clone a {0}",
+        "x": false
+      },
+      {
+        "prompt": "The greatest part about having lots and lots of back hair",
+        "x": false
+      },
+      {
+        "prompt": "The worst thing to hear from your spouse: \"I'm leaving you for {0}\"",
+        "x": false
+      },
+      {
+        "prompt": "The worst vehicle to drag race in",
+        "x": false
+      },
+      {
+        "prompt": "What are mannequins always thinking?",
+        "x": false
+      },
+      {
+        "prompt": "What keeps Adam Sandler making movies",
+        "x": false
+      },
+      {
+        "prompt": "What word should never be followed by an exclamation mark?",
+        "x": false
+      },
+      {
+        "prompt": "What's that blue liquid in Magic 8 balls?",
+        "x": true
+      },
+      {
+        "prompt": "What Victoria's Secret models probably do right after a fashion show",
+        "x": true
+      }
+    ],
+    "quiplash3": {
+      "round1": [
+        {
+          "prompt": "Honestly, you can never have too many {0}",
+          "x": false
+        },
+        {
+          "prompt": "You know a restaurant is bad when the waiter says \"{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "That horror movie was so scary until the killer turned out to be {0}",
+          "x": false
+        },
+        {
+          "prompt": "What would you call your ANTI-social network?",
+          "x": false
+        },
+        {
+          "prompt": "An old-fashioned curse word that nobody uses anymore",
+          "x": false
+        },
+        {
+          "prompt": "What's the worst thing to wear when running a marathon?",
+          "x": false
+        },
+        {
+          "prompt": "Your fish are bored! You should put a {0} in their tank to amuse them.",
+          "x": false
+        },
+        {
+          "prompt": "In this house, \"Grandma\" and \"Grandpa\" are known as {0}",
+          "x": false
+        },
+        {
+          "prompt": "\"Pokémon Trainer\" is a much nobler job title than \"Pokémon {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "Archaeologists won't admit they've discovered cave paintings of {0}",
+          "x": false
+        },
+        {
+          "prompt": "The secret thing cats do when we're not looking",
+          "x": false
+        },
+        {
+          "prompt": "A good sign that you're a terrible farmer",
+          "x": false
+        },
+        {
+          "prompt": "If your childhood toys came to life, they would probably say \"{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The worst restaurant: {0} Hut",
+          "x": false
+        },
+        {
+          "prompt": "What skin tags probably taste like",
+          "x": false
+        },
+        {
+          "prompt": "What your mom thinks the word \"yeet\" means",
+          "x": false
+        },
+        {
+          "prompt": "You know it's a party when someone shows up with {0}",
+          "x": false
+        },
+        {
+          "prompt": "You know the lottery scratch-off ticket won't pay out much when the goal is to get three {0}",
+          "x": true
+        },
+        {
+          "prompt": "A surprising new use for kale",
+          "x": false
+        },
+        {
+          "prompt": "Believe it or not, kids are going crazy over these {0} trading cards",
+          "x": false
+        },
+        {
+          "prompt": "A name for a music festival your mother would approve of",
+          "x": false
+        },
+        {
+          "prompt": "What defeats rock, paper AND scissors?",
+          "x": false
+        },
+        {
+          "prompt": "Along with tall, grande and venti, Starbucks should add a new coffee size: {0}",
+          "x": false
+        },
+        {
+          "prompt": "The nicest compliment you can give to a snake",
+          "x": false
+        },
+        {
+          "prompt": "Under a full moon, a small number of people turn into {0}",
+          "x": false
+        },
+        {
+          "prompt": "What the US president counts at night instead of sheep",
+          "x": false
+        },
+        {
+          "prompt": "A rejected slogan for milk",
+          "x": false
+        },
+        {
+          "prompt": "There's nothing sexier than a tall, beefy boy who knows how to {0}",
+          "x": true
+        },
+        {
+          "prompt": "What's at the core of the planet named after you?",
+          "x": false
+        },
+        {
+          "prompt": "Name of an award show that celebrates the most mediocre movies of the year",
+          "x": false
+        },
+        {
+          "prompt": "Relationship rules: Never go to bed angry and never wake up {0}",
+          "x": false
+        },
+        {
+          "prompt": "He's just not that into you... because he's into {0}",
+          "x": false
+        },
+        {
+          "prompt": "Hard to believe but Madame Tussauds now has a wax statue of {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst words to end a scary story",
+          "x": false
+        },
+        {
+          "prompt": "The absolute dumbest question to pose in Yahoo! Answers",
+          "x": false
+        },
+        {
+          "prompt": "A good use for all your old CDs",
+          "x": false
+        },
+        {
+          "prompt": "The worst breakup line: \"It's not you, it's {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "It would be terrifying to have a painting of {0} above your bed",
+          "x": false
+        },
+        {
+          "prompt": "A cool nickname for your bowel movements",
+          "x": true
+        },
+        {
+          "prompt": "A sure sign you are trapped in a horrible nightmare",
+          "x": false
+        },
+        {
+          "prompt": "First, she asked for legs, then the Little Mermaid asked for {0}",
+          "x": false
+        },
+        {
+          "prompt": "What every woman is hiding under her bangs",
+          "x": false
+        },
+        {
+          "prompt": "The generational nickname for babies born ten years from now",
+          "x": false
+        },
+        {
+          "prompt": "A cute nickname for your butt",
+          "x": false
+        },
+        {
+          "prompt": "A comment that has NEVER been made on the internet",
+          "x": false
+        },
+        {
+          "prompt": "A terrible new name to get from the Witness Protection Program",
+          "x": false
+        },
+        {
+          "prompt": "This year's LEAST popular kids' toy is: \"The {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "You know your date is a slob when you find {0} in the middle of their living room",
+          "x": false
+        },
+        {
+          "prompt": "The most erotic amusement park ride is called the {0}",
+          "x": true
+        },
+        {
+          "prompt": "The name of Snow White's millennial eighth dwarf",
+          "x": false
+        },
+        {
+          "prompt": "\"Haste makes {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "If you could fart to the melody of one song, it would be {0}",
+          "x": false
+        },
+        {
+          "prompt": "What Cookie Monster snacks on when nobody's looking",
+          "x": false
+        },
+        {
+          "prompt": "A better name for the TV show Friends",
+          "x": false
+        },
+        {
+          "prompt": "Something the Pope might sell on Home Shopping Network",
+          "x": false
+        },
+        {
+          "prompt": "The only SAFE sex is {0}",
+          "x": true
+        },
+        {
+          "prompt": "A great way to stand out at comic book conventions is to dress like {0}",
+          "x": false
+        },
+        {
+          "prompt": "In the lamest campfire tale, the young couple is terrorized by {0}",
+          "x": false
+        },
+        {
+          "prompt": "Still-life paintings would be more interesting if they were bowls of {0}",
+          "x": false
+        },
+        {
+          "prompt": "A fun nickname for the worst kid on a sports team",
+          "x": false
+        },
+        {
+          "prompt": "The show must go on! Unless there is {0} in the audience.",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to be inscribed on a welcome mat",
+          "x": false
+        },
+        {
+          "prompt": "An adorable name for sideburns",
+          "x": false
+        },
+        {
+          "prompt": "One-Star Hotel Review: \"Terrible mattress, no towels and {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The best name for a mom gang",
+          "x": false
+        },
+        {
+          "prompt": "Casinos hate it when you walk up to the blackjack table and yell: \"{0}!\"",
+          "x": true
+        },
+        {
+          "prompt": "\"A good man is hard to {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A great sport that never caught on: {0} on ice skates",
+          "x": false
+        },
+        {
+          "prompt": "The one thing you should never slather mayonnaise on",
+          "x": false
+        },
+        {
+          "prompt": "The worst pattern for a women's dress print",
+          "x": false
+        },
+        {
+          "prompt": "\"The meek shall inherit {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A scrapbook nobody wants to see would be devoted to {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to use as confetti",
+          "x": false
+        },
+        {
+          "prompt": "Gruesome! Instead of prickles, there's a cactus that protects itself with {0}",
+          "x": false
+        },
+        {
+          "prompt": "A terrible model name for a self-driving car",
+          "x": false
+        },
+        {
+          "prompt": "Dear Science, stop already! We know enough about {0}!",
+          "x": false
+        },
+        {
+          "prompt": "A more respectable way of saying \"junk in the trunk\" is {0}",
+          "x": false
+        },
+        {
+          "prompt": "The best name for a rideshare company to stand out from competitors",
+          "x": false
+        },
+        {
+          "prompt": "Your last thought before passing into the afterlife",
+          "x": false
+        },
+        {
+          "prompt": "The dish that gets you uninvited from future potlucks",
+          "x": false
+        },
+        {
+          "prompt": "You know it's bad when your mom says, \"I'm not mad, I'm {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A pickup line you might say to someone at the library",
+          "x": false
+        },
+        {
+          "prompt": "It's a bold choice to send someone a bouquet of {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to yell from a clothing store dressing room",
+          "x": false
+        },
+        {
+          "prompt": "Mother called you a \"toddler tyrant\" when you {0}",
+          "x": false
+        },
+        {
+          "prompt": "Hate Valentine's Day? There's a new holiday called {0}",
+          "x": false
+        },
+        {
+          "prompt": "The name of an appointment scheduling app nobody downloads",
+          "x": false
+        },
+        {
+          "prompt": "Family secret! Grandma keeps her cash in {0}",
+          "x": false
+        },
+        {
+          "prompt": "Name for a wacky sitcom about ancient philosophers",
+          "x": false
+        },
+        {
+          "prompt": "What used to have wings before God took away its power of flight?",
+          "x": false
+        },
+        {
+          "prompt": "The name of the tamest action movie ever made",
+          "x": false
+        },
+        {
+          "prompt": "\"Fool me once, shame on you. Fool me twice, {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The best name for a gamers-only utopia",
+          "x": false
+        },
+        {
+          "prompt": "A nickname for a big, bushy beard",
+          "x": false
+        },
+        {
+          "prompt": "A pretty compelling reason to stop wiping your butt",
+          "x": false
+        },
+        {
+          "prompt": "The weirdest video game: {0} Simulator",
+          "x": false
+        },
+        {
+          "prompt": "A fairy tale that never caught on: {0} and the Beast",
+          "x": false
+        },
+        {
+          "prompt": "The next Pixar movie will be about a talking {0}",
+          "x": false
+        },
+        {
+          "prompt": "A contestant's job title you would NOT be surprised to see on The Bachelor",
+          "x": false
+        },
+        {
+          "prompt": "The name of a substitute teacher no student would mess with",
+          "x": false
+        },
+        {
+          "prompt": "Whatever you do, do NOT put sriracha on {0}",
+          "x": false
+        },
+        {
+          "prompt": "You know you're super bored when you fill out the \"Which {0} Are You\" quiz",
+          "x": false
+        },
+        {
+          "prompt": "The strangest clickbait headline: \"Hot {0} Are In Your Area\"",
+          "x": false
+        },
+        {
+          "prompt": "A truly innovative technology would be {0}-canceling headphones",
+          "x": false
+        },
+        {
+          "prompt": "The name of a cologne that would be a woman repellent",
+          "x": false
+        },
+        {
+          "prompt": "Doctors Without Borders is a much better organization than Doctors Without {0}",
+          "x": false
+        },
+        {
+          "prompt": "The weirdest celebrity demand in a rider contract: The greenroom MUST have {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most memorable category you'd ever see on Jeopardy!",
+          "x": false
+        },
+        {
+          "prompt": "A warning that should come with alcohol: \"May Cause {0}!\"",
+          "x": true
+        },
+        {
+          "prompt": "What unicorn meat tastes like",
+          "x": true
+        },
+        {
+          "prompt": "Something that should never be described as \"juicy\"",
+          "x": false
+        },
+        {
+          "prompt": "A reminder that pops up on the Devil's phone: \"Remember to {0} today!\"",
+          "x": false
+        },
+        {
+          "prompt": "A fun nickname for tampons",
+          "x": false
+        },
+        {
+          "prompt": "The next big hit Broadway musical is going to be about {0}",
+          "x": false
+        },
+        {
+          "prompt": "Good Idea: reusable bags. Bad Idea: reusable {0}",
+          "x": false
+        },
+        {
+          "prompt": "The weirdest thing your Uber driver could offer you",
+          "x": false
+        },
+        {
+          "prompt": "Why do babies' heads smell so good?",
+          "x": false
+        },
+        {
+          "prompt": "What toddlers would buy if they had mad Ca$h",
+          "x": false
+        },
+        {
+          "prompt": "An appropriate pickup line for church",
+          "x": false
+        },
+        {
+          "prompt": "When your Roomba is charging, what does it dream about?",
+          "x": false
+        },
+        {
+          "prompt": "Who knew police give tickets for {0}?",
+          "x": false
+        },
+        {
+          "prompt": "Something you should never order at a business lunch",
+          "x": false
+        },
+        {
+          "prompt": "A terrible idea for a children's pop-up book: The Adventures of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Adults should be able to go door-to-door on Halloween and get {0}",
+          "x": true
+        },
+        {
+          "prompt": "Everyone was sad when they saw the piÃ±ata was full of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Something that would definitely NOT taste better pickled",
+          "x": false
+        },
+        {
+          "prompt": "A better name for skinny-dipping",
+          "x": false
+        },
+        {
+          "prompt": "Two words that will get a big laugh as a callback later in the game",
+          "x": false
+        },
+        {
+          "prompt": "If they made a candle of your life, it would smell like {0}",
+          "x": false
+        },
+        {
+          "prompt": "Taco Tuesdays are so much better than {0} Wednesdays",
+          "x": false
+        },
+        {
+          "prompt": "A rejected Dr. Seuss book title: Oh, The Places You'll {0}",
+          "x": false
+        },
+        {
+          "prompt": "A rejected Christmas song: \"Santa Claus Is Coming to {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "You know your doctor is an idiot when he says, \"I need ten cc's of {0} STAT!\"",
+          "x": false
+        },
+        {
+          "prompt": "Hurrah! The United States is the world leader in {0}",
+          "x": false
+        },
+        {
+          "prompt": "A bumper sticker you'd consider displaying: \"Ask Me About My {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "Werewolves have TWO weaknesses: silver bullets and {0}",
+          "x": false
+        },
+        {
+          "prompt": "The dumbest petition would push for {0}",
+          "x": false
+        },
+        {
+          "prompt": "Nobody would greenlight a kid's game show called \"Where in the World is {0}?\"",
+          "x": false
+        },
+        {
+          "prompt": "The sexiest dessert",
+          "x": true
+        },
+        {
+          "prompt": "Someone who looks good is a \"snack,\" but someone who looks REALLY GOOD is a {0}",
+          "x": false
+        },
+        {
+          "prompt": "A website just for grandpas: www.{0}.com",
+          "x": false
+        },
+        {
+          "prompt": "The quickest way to become the most popular kid in school",
+          "x": false
+        },
+        {
+          "prompt": "What the coolest grandparent slips into a birthday card",
+          "x": false
+        },
+        {
+          "prompt": "What the most popular kid from your high school is probably doing right now",
+          "x": false
+        },
+        {
+          "prompt": "Susan has such a youthful glow ever since she started washing her face with {0}!",
+          "x": false
+        },
+        {
+          "prompt": "Avoid the classified post that offers \"Free {0} to Good Home\"",
+          "x": false
+        },
+        {
+          "prompt": "Coffee shops always get names wrong. They should just hold up an order and shout \"{0}!\"",
+          "x": false
+        },
+        {
+          "prompt": "The best way to set the mood is to turn down the lights and turn up the {0}",
+          "x": true
+        },
+        {
+          "prompt": "An unlikely spokesperson for vaping",
+          "x": false
+        },
+        {
+          "prompt": "Prison would actually be super fun if only it had {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most outrageous thing you can smuggle inside a baguette",
+          "x": false
+        },
+        {
+          "prompt": "A very unlikely place to meet your soulmate",
+          "x": false
+        },
+        {
+          "prompt": "The best part about living in a sewer",
+          "x": false
+        },
+        {
+          "prompt": "Alice in Wonderland is weird, but it makes more sense than Alice in {0}",
+          "x": false
+        },
+        {
+          "prompt": "In the worst magic show, the magician pulls {0} out of a hat",
+          "x": false
+        },
+        {
+          "prompt": "Something you'd gladly pay $45 for",
+          "x": false
+        },
+        {
+          "prompt": "The next big romance novel: For The Love of {0}",
+          "x": false
+        },
+        {
+          "prompt": "The dumbest thing to buy in bulk",
+          "x": false
+        },
+        {
+          "prompt": "Sorry, we don't have Coke or Pepsi. Is {0} okay?",
+          "x": false
+        },
+        {
+          "prompt": "A request you'd make on your dating profile: \"Must love {0}\"",
+          "x": true
+        },
+        {
+          "prompt": "Who is God's understudy?",
+          "x": false
+        },
+        {
+          "prompt": "What's the worst sound to hear when shaking a Christmas present?",
+          "x": false
+        },
+        {
+          "prompt": "The best response to \"I know you are, but what am I!?\"",
+          "x": false
+        },
+        {
+          "prompt": "After juggling chainsaws, the next skill to master is {0}",
+          "x": false
+        },
+        {
+          "prompt": "Cap'n Crunch's nickname at the Naval Academy",
+          "x": false
+        },
+        {
+          "prompt": "What's the trick to staying up when you have to pull an all-nighter?",
+          "x": false
+        },
+        {
+          "prompt": "A sure sign you are currently dating a grizzly bear",
+          "x": false
+        },
+        {
+          "prompt": "The daily special at a diner for bears",
+          "x": false
+        },
+        {
+          "prompt": "The real reason you're not going to the party tonight",
+          "x": false
+        },
+        {
+          "prompt": "The simplest pleasure known to man",
+          "x": false
+        },
+        {
+          "prompt": "It is bad luck if you break a mirror, but good luck if you break {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to find in your belly button",
+          "x": false
+        },
+        {
+          "prompt": "The sexiest kitchen appliance",
+          "x": true
+        },
+        {
+          "prompt": "The real reason people are afraid of the dark",
+          "x": false
+        },
+        {
+          "prompt": "What you call pants when you want everyone to think you're fun",
+          "x": false
+        },
+        {
+          "prompt": "Okay... just between us... which boy do you have a crush on?",
+          "x": false
+        },
+        {
+          "prompt": "The \"forbidden meat\" comes from what animal?",
+          "x": false
+        },
+        {
+          "prompt": "What do boxers whisper to each other at weigh-in?",
+          "x": false
+        },
+        {
+          "prompt": "What obscure cryptid monster stalks the streets of Cleveland, Ohio?",
+          "x": false
+        },
+        {
+          "prompt": "What shape never took off with animal crackers?",
+          "x": false
+        },
+        {
+          "prompt": "There's a secret tax loophole that allows you to count {0} as dependents",
+          "x": true
+        },
+        {
+          "prompt": "The most surprising place to find a missing contact lens",
+          "x": false
+        },
+        {
+          "prompt": "A terrible sound option to have on a white noise machine",
+          "x": false
+        },
+        {
+          "prompt": "No, the house isn't haunted. The moaning you hear at night is just {0}",
+          "x": true
+        },
+        {
+          "prompt": "What's your reflection doing when you turn your back?",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to see through a telescope, hurtling towards Earth",
+          "x": false
+        },
+        {
+          "prompt": "Instead of a siren, police could get cars to respond faster by blasting {0}",
+          "x": false
+        },
+        {
+          "prompt": "Carl, the kind cat burglar, leaves your valuables and takes your {0}",
+          "x": false
+        },
+        {
+          "prompt": "The apartment lease says it's okay to have dogs as long as they {0}",
+          "x": false
+        },
+        {
+          "prompt": "Why do hot singles in your area want to talk to you?",
+          "x": false
+        },
+        {
+          "prompt": "Dogs are so gullible they actually believe {0}",
+          "x": false
+        },
+        {
+          "prompt": "You know you're rich when you have a room just for {0}",
+          "x": false
+        },
+        {
+          "prompt": "In a pinch, this can serve as a life raft",
+          "x": false
+        },
+        {
+          "prompt": "\"I didn't come here to make friends, I came here to {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "How do you know your friends are a bunch of phonies?",
+          "x": false
+        },
+        {
+          "prompt": "Something that should never be described as \"rustic\"",
+          "x": false
+        },
+        {
+          "prompt": "The attention-craving celebrity who appears when you say their name to a mirror five times",
+          "x": false
+        },
+        {
+          "prompt": "An inappropriate gift to welcome someone to the neighborhood",
+          "x": false
+        },
+        {
+          "prompt": "Forget cats and dogs. When the weather gets REALLY bad, it starts raining {0}",
+          "x": false
+        },
+        {
+          "prompt": "Nothing is certain but death and taxes... oh, also {0}",
+          "x": false
+        },
+        {
+          "prompt": "Oh no! You washed all your clothes with {0} in the pockets!",
+          "x": false
+        },
+        {
+          "prompt": "A sure sign that your takes are way too hot",
+          "x": false
+        },
+        {
+          "prompt": "Against your better judgment, the thing you really want to put down the garbage disposal",
+          "x": false
+        },
+        {
+          "prompt": "A good name for a dating app for lawyers",
+          "x": false
+        },
+        {
+          "prompt": "A great name for a superhero who can communicate with cats",
+          "x": false
+        },
+        {
+          "prompt": "What seagulls are usually thinking",
+          "x": false
+        },
+        {
+          "prompt": "What should have happened at the end of Titanic",
+          "x": false
+        },
+        {
+          "prompt": "Dorothy meant to say, \"There's no place like {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "Movie reboot idea: The Devil Wears {0}",
+          "x": false
+        },
+        {
+          "prompt": "Nothing will wake you up faster than a nice, hot cup of {0} in the morning",
+          "x": false
+        },
+        {
+          "prompt": "A rejected fairy tale title: \"Jack and the Giant {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A weird thing for a dentist to say while you're in the chair",
+          "x": false
+        },
+        {
+          "prompt": "The worst name for an educational kids' show",
+          "x": false
+        },
+        {
+          "prompt": "A terrible thing to discover squirrels burying in your yard",
+          "x": false
+        },
+        {
+          "prompt": "{0} much?",
+          "x": false
+        },
+        {
+          "prompt": "The greatest thing in the world to Auto-Tune",
+          "x": true
+        },
+        {
+          "prompt": "In the dystopian future, all clothing will be made from {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst ringtone to play on your phone during a work meeting",
+          "x": false
+        },
+        {
+          "prompt": "Modern-day Mary Poppins suggests taking a spoonful of {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to say after kissing someone",
+          "x": false
+        },
+        {
+          "prompt": "Got {0}?",
+          "x": false
+        },
+        {
+          "prompt": "The special skill on a resume that would make you immediately hire that person",
+          "x": false
+        },
+        {
+          "prompt": "Instead of whistling, an updated version of Snow White suggests you {0} while you work",
+          "x": false
+        },
+        {
+          "prompt": "A surprising thing to find caught in the spiderweb in your basement",
+          "x": false
+        },
+        {
+          "prompt": "A truly disgusting flavor for toothpaste",
+          "x": false
+        },
+        {
+          "prompt": "\"No shirt, no shoes, no {0}, no service\"",
+          "x": false
+        },
+        {
+          "prompt": "With the best credit card ever, you can redeem reward points for {0}",
+          "x": false
+        },
+        {
+          "prompt": "What a cat would do if it had human hands",
+          "x": false
+        },
+        {
+          "prompt": "It should be illegal to put {0} in a buffet",
+          "x": false
+        },
+        {
+          "prompt": "Okay wow, God just announced He is sick of hearing prayers about {0}",
+          "x": false
+        },
+        {
+          "prompt": "A better use for Rapunzel's hair",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to say instead of \"I do\" at your wedding",
+          "x": true
+        },
+        {
+          "prompt": "What The Beach Boys called themselves before they ever saw the ocean",
+          "x": false
+        },
+        {
+          "prompt": "Little known fact: Guns N' Roses used to to be called Guns N' Roses N' {0}",
+          "x": false
+        },
+        {
+          "prompt": "What social distancing is called on Antarctica",
+          "x": false
+        },
+        {
+          "prompt": "An unlikely celebrity to become the next President of the United States",
+          "x": false
+        },
+        {
+          "prompt": "The most boring reality TV contest would feature competitive {0}",
+          "x": false
+        },
+        {
+          "prompt": "Solar and wind will be a joke once we harness the power of {0}",
+          "x": false
+        },
+        {
+          "prompt": "\"You can lead a horse to water, but you can't make it {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The best way to describe the texture of a jellyfish",
+          "x": false
+        },
+        {
+          "prompt": "The worst person to accidentally add to a group text about your love life",
+          "x": false
+        },
+        {
+          "prompt": "The scariest thing that could pop out of your birthday cake",
+          "x": false
+        },
+        {
+          "prompt": "A good name for a camel dance troupe",
+          "x": true
+        },
+        {
+          "prompt": "Besides cockroaches, the one thing that will survive the apocalypse",
+          "x": false
+        },
+        {
+          "prompt": "What's your mom worrying about today?",
+          "x": false
+        },
+        {
+          "prompt": "The name of a planet covered in corn",
+          "x": false
+        },
+        {
+          "prompt": "\"If you build it they will come\" applies to baseball fields and {0}",
+          "x": false
+        },
+        {
+          "prompt": "What's the name of the Walmart aisle where you can go cry in peace?",
+          "x": false
+        },
+        {
+          "prompt": "The cow goes moo. The drunk cow goes {0}",
+          "x": false
+        },
+        {
+          "prompt": "Unfortunately, Curious George was the most curious about {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most popular job title in 2040",
+          "x": false
+        },
+        {
+          "prompt": "Did you know your garden hose can double as a {0}!?",
+          "x": false
+        },
+        {
+          "prompt": "A terrible Mother's Day gift",
+          "x": false
+        },
+        {
+          "prompt": "Doctors say {0} is not addictive, but you're hooked!",
+          "x": false
+        },
+        {
+          "prompt": "Understandably, no one wants to adopt Little Orphan {0}",
+          "x": false
+        },
+        {
+          "prompt": "A deodorant scent designed by a dog",
+          "x": false
+        },
+        {
+          "prompt": "America doesn't have a royal family. We just have {0}",
+          "x": false
+        },
+        {
+          "prompt": "A lighter, more romantic sequel to Crime and Punishment would be called {0}",
+          "x": false
+        },
+        {
+          "prompt": "Instead of Truth or Dare, kids these days play Truth or {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to use as a straw",
+          "x": false
+        },
+        {
+          "prompt": "For containers, you go to The Container Store. For sex toys, you go to {0}",
+          "x": true
+        },
+        {
+          "prompt": "A cocktail you make for sad occasions",
+          "x": false
+        },
+        {
+          "prompt": "A business word an important businessman might say, for business",
+          "x": false
+        },
+        {
+          "prompt": "Money can't buy happiness, but it CAN buy {0}",
+          "x": false
+        },
+        {
+          "prompt": "Jesus' secret middle name",
+          "x": false
+        },
+        {
+          "prompt": "A better name for comic books would be {0}",
+          "x": false
+        },
+        {
+          "prompt": "A good name for the opposite of a silent-but-deadly fart",
+          "x": true
+        },
+        {
+          "prompt": "Look, it's all fun and games until {0}",
+          "x": false
+        },
+        {
+          "prompt": "California's biggest export is {0}",
+          "x": false
+        },
+        {
+          "prompt": "What's a badass name for a badass sword?",
+          "x": false
+        },
+        {
+          "prompt": "Kids these days are skipping first base and going straight to {0}",
+          "x": true
+        },
+        {
+          "prompt": "Modern pirates don't steal treasure. They steal {0}",
+          "x": false
+        },
+        {
+          "prompt": "A name for a superhero who is basically just a rip-off of Batman",
+          "x": false
+        },
+        {
+          "prompt": "After a massive downsizing, the store unfortunately had to be renamed Bed Bath & {0}",
+          "x": false
+        },
+        {
+          "prompt": "{0}: It's hard work, but somebody's gotta do it!",
+          "x": false
+        },
+        {
+          "prompt": "What's the perfect hide-and-seek hiding spot?",
+          "x": false
+        },
+        {
+          "prompt": "Halloween would be even spookier if it were called {0}",
+          "x": false
+        },
+        {
+          "prompt": "500 years ago freckles were called {0}",
+          "x": false
+        },
+        {
+          "prompt": "It's easy to walk out of a timeshare pitch... until they offer you {0}",
+          "x": false
+        },
+        {
+          "prompt": "There is only one person you should follow into a dark alley and that's {0}",
+          "x": false
+        },
+        {
+          "prompt": "Austin's new slogan should be \"Keep Austin {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "Remember kids: if it doesn't have {0}, it's not anime!",
+          "x": false
+        },
+        {
+          "prompt": "What secret is your left hand keeping from your right hand?",
+          "x": false
+        },
+        {
+          "prompt": "What do most Rorschach tests look like to you?",
+          "x": true
+        },
+        {
+          "prompt": "\"Of all the gin joints in all the towns in all the world, she walks into {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "Something Sonic the Hedgehog should NOT be doing that fast",
+          "x": false
+        },
+        {
+          "prompt": "The most difficult hole in mini-golf is a tiny version of {0}",
+          "x": false
+        },
+        {
+          "prompt": "My trap is fiendishly simple, Mr. Bond! Once I pull this lever, the floor will become {0}",
+          "x": false
+        },
+        {
+          "prompt": "There is no \"i\" in team... but there is an \"i\" in {0}",
+          "x": false
+        },
+        {
+          "prompt": "First the cat gets your tongue, then it gets your {0}",
+          "x": false
+        },
+        {
+          "prompt": "A terrible last name if your first name is Dick",
+          "x": true
+        },
+        {
+          "prompt": "Ok, fellas, let's have a fair fight. No spitting, no kicking and absolutely no {0}",
+          "x": false
+        },
+        {
+          "prompt": "An embarrassing person to accidentally call \"Daddy\"",
+          "x": false
+        },
+        {
+          "prompt": "A blood type only found in extremely sexy people",
+          "x": true
+        },
+        {
+          "prompt": "The worst inspirational sign to see while running a marathon",
+          "x": false
+        },
+        {
+          "prompt": "Weirdly enough, the NFL has agreed to let players celebrate touchdowns by {0}",
+          "x": false
+        },
+        {
+          "prompt": "The federal government should have an executive Department of {0}",
+          "x": false
+        },
+        {
+          "prompt": "The last person you'd take financial advice from",
+          "x": false
+        },
+        {
+          "prompt": "A less radical band name would be Rage Against The {0}",
+          "x": false
+        },
+        {
+          "prompt": "The title of a mixtape you would make for your boss",
+          "x": false
+        },
+        {
+          "prompt": "A sign it's time to wrap up your day at the beach",
+          "x": false
+        },
+        {
+          "prompt": "The coolest kid in middle school is always the one wearing {0}",
+          "x": false
+        },
+        {
+          "prompt": "There's the problem! You've got a huge {0} stuck in your sink.",
+          "x": false
+        },
+        {
+          "prompt": "A bumper sticker a goose would put on its car",
+          "x": false
+        },
+        {
+          "prompt": "If you don't have any teeth, the tooth fairy will gladly take your {0}",
+          "x": false
+        },
+        {
+          "prompt": "Fine! If nobody is going to ask... I will! What's that smell?",
+          "x": false
+        },
+        {
+          "prompt": "A good excuse for not reading your friend's new screenplay",
+          "x": false
+        },
+        {
+          "prompt": "Huge twist! Turns out the monster was really {0} wearing a mask the whole time!",
+          "x": false
+        },
+        {
+          "prompt": "A good sign that Santa doesn't give a crap about his job anymore",
+          "x": false
+        },
+        {
+          "prompt": "The best marketing slogan for your butt",
+          "x": false
+        },
+        {
+          "prompt": "It's not all Bible study! On Wednesdays, the local church group is known to {0}",
+          "x": false
+        },
+        {
+          "prompt": "Michael Bay presents {0}: The Musical!",
+          "x": false
+        },
+        {
+          "prompt": "Remember: Never buy a build-your-own {0}",
+          "x": false
+        },
+        {
+          "prompt": "The shrimp boat captain never worked again after accidentally catching {0} in his net",
+          "x": false
+        },
+        {
+          "prompt": "Finish the rhyme: \"Roses are red, violets are blue, I got you this card, {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A slightly more appetizing name for \"leftovers\"",
+          "x": false
+        },
+        {
+          "prompt": "If a friend describes your blind date as \"interesting,\" it means {0}",
+          "x": false
+        },
+        {
+          "prompt": "The DNA test proves you are not the father, but you are {0}",
+          "x": false
+        },
+        {
+          "prompt": "For a wedding to be legal in Florida, {0} must be present at the ceremony",
+          "x": false
+        },
+        {
+          "prompt": "The perfect excuse for getting out of gym class",
+          "x": false
+        },
+        {
+          "prompt": "After her husband died, who did Mrs. Butterworth eventually end up with?",
+          "x": false
+        },
+        {
+          "prompt": "The biggest pet peeve among modern zombies",
+          "x": false
+        },
+        {
+          "prompt": "Something you shouldn't say in a crowded elevator",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing about being really, really sexy",
+          "x": true
+        },
+        {
+          "prompt": "The best way to stay young forever",
+          "x": false
+        },
+        {
+          "prompt": "Something you might overhear in the White House",
+          "x": false
+        },
+        {
+          "prompt": "What sound does a shy gun make?",
+          "x": false
+        },
+        {
+          "prompt": "Book adaptations have gone too far! Now they're making {0}: On Ice!",
+          "x": false
+        },
+        {
+          "prompt": "In the next Donkey Kong game, you'll get to meet his distant cousin: {0} Kong",
+          "x": false
+        },
+        {
+          "prompt": "There are three types of people. You're either a witch, a stone or a {0}",
+          "x": false
+        },
+        {
+          "prompt": "An excuse for being late that will make people stop asking questions FAST",
+          "x": false
+        },
+        {
+          "prompt": "What a misfit vampire craves more than blood",
+          "x": false
+        },
+        {
+          "prompt": "First was the bro hug. Now bros are doing {0}",
+          "x": false
+        },
+        {
+          "prompt": "The rejected last line of the national anthem: \"O'er the land of the free and the home of {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "Something stupid a 23rd-century human might find in a time capsule from today",
+          "x": false
+        },
+        {
+          "prompt": "Is it just me or is {0} just TOO attractive to be human?",
+          "x": false
+        },
+        {
+          "prompt": "The most common birthday wish is for world peace. The second most common is {0}",
+          "x": false
+        },
+        {
+          "prompt": "It isn't called \"sex\" in honest relationships. It's called \"making {0}\"",
+          "x": true
+        },
+        {
+          "prompt": "You're twelve years old and you just got a blank check! What's the first thing you're buying?",
+          "x": false
+        },
+        {
+          "prompt": "Someone you'd never expect to give you \"the birds and the bees\" talk",
+          "x": true
+        },
+        {
+          "prompt": "If we named all the constellations today, one would DEFINITELY be called {0}",
+          "x": false
+        },
+        {
+          "prompt": "Look up \"{0}\" in the dictionary and there will be a picture of {ANYPLAYER}",
+          "x": false
+        },
+        {
+          "prompt": "A terrible catchphrase for a magician",
+          "x": false
+        },
+        {
+          "prompt": "The best name for a local news weatherperson",
+          "x": false
+        },
+        {
+          "prompt": "A celebrity {ANYPLAYER} looks like, if you squint a little",
+          "x": false
+        },
+        {
+          "prompt": "And over here are the fossils of the {0}, the world's clumsiest dinosaur!",
+          "x": false
+        },
+        {
+          "prompt": "When I die, I want to be surrounded by family and {0}",
+          "x": false
+        },
+        {
+          "prompt": "If we could just turn off gravity for an hour, it would make {0} much more interesting",
+          "x": false
+        },
+        {
+          "prompt": "The weirdest thing you could tell your hairdresser: \"Give me the {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A shocking thing to discover your kids built out of LEGO",
+          "x": false
+        },
+        {
+          "prompt": "The hardest thing to say with a big, goofy smile",
+          "x": false
+        },
+        {
+          "prompt": "Oddly enough, the Tour de France takes a tiny detour through {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most convenient piece of furniture is a couch that turns into {0}",
+          "x": false
+        },
+        {
+          "prompt": "The best way to \"dress up\" a pair of cargo shorts",
+          "x": false
+        },
+        {
+          "prompt": "The leading cause of goosebumps, probably",
+          "x": false
+        },
+        {
+          "prompt": "You knew the accident involved a clown car because the road was covered in {0}",
+          "x": false
+        },
+        {
+          "prompt": "An architectural landmark you find weirdly... attractive",
+          "x": true
+        },
+        {
+          "prompt": "The name of a yacht that you'd think twice about getting on",
+          "x": false
+        },
+        {
+          "prompt": "Nobody ever checks in to that hotel room! Not since {0}",
+          "x": false
+        },
+        {
+          "prompt": "\"Revenge is a dish best served {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The community college was doomed after it made {0} its mascot",
+          "x": false
+        },
+        {
+          "prompt": "If you want a bartender to hate you, just order {0}",
+          "x": false
+        },
+        {
+          "prompt": "The slowest draw in the West: Billy the {0}",
+          "x": false
+        },
+        {
+          "prompt": "Something that makes you go, \"Ugh, fine, I'll do it\"",
+          "x": false
+        },
+        {
+          "prompt": "My ladyship, may I introduce the most disgusting knight we have, Sir {0}",
+          "x": false
+        },
+        {
+          "prompt": "The next big documentary will be about the seedy underbelly of the {0} industry",
+          "x": false
+        },
+        {
+          "prompt": "If you're being honest with yourself, you'll never be brave enough to {0}",
+          "x": false
+        },
+        {
+          "prompt": "The name of a clown you would not hire for your six-year-old's birthday party",
+          "x": false
+        },
+        {
+          "prompt": "The name of a summer camp for extremely shy children",
+          "x": false
+        },
+        {
+          "prompt": "Dishwashers don't have windows! What are they hiding?",
+          "x": false
+        },
+        {
+          "prompt": "A gift your stepdad really tried his best on... so be nice",
+          "x": false
+        },
+        {
+          "prompt": "Forget the labradoodle! The best dog breed combination is the {0}",
+          "x": false
+        },
+        {
+          "prompt": "When in England, remember that they {0} on the other side of the road",
+          "x": false
+        },
+        {
+          "prompt": "Something that you didn't need to know is gluten-free",
+          "x": false
+        },
+        {
+          "prompt": "In the Republic of {ANYPLAYER}, the national anthem would be {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to discover that your five-year-old is drawing",
+          "x": false
+        },
+        {
+          "prompt": "Quick! How do you ruin a romantic picnic!?",
+          "x": false
+        },
+        {
+          "prompt": "OMG. Seriously. Where is Waldo???",
+          "x": false
+        },
+        {
+          "prompt": "GOOD: hard-boiled eggs. BAD: hard-boiled {0}",
+          "x": false
+        },
+        {
+          "prompt": "A fact about you that would impress a four-year-old",
+          "x": false
+        },
+        {
+          "prompt": "What's the next state we should add to the US?",
+          "x": false
+        },
+        {
+          "prompt": "Look, kids, if you can't agree on a name for that hamster, we're just going to call it {0}",
+          "x": false
+        },
+        {
+          "prompt": "A bribe!? Is it a bribe to give a federal judge {0}?",
+          "x": false
+        },
+        {
+          "prompt": "Little-known fact! Da Vinci liked to draw a little {0} somewhere in his paintings.",
+          "x": false
+        },
+        {
+          "prompt": "If you lived in the early 1500s, what would YOU nail to the door of a church?",
+          "x": false
+        },
+        {
+          "prompt": "What's something you should never do while wearing sandals?",
+          "x": false
+        },
+        {
+          "prompt": "Never get in a street fight with someone nicknamed \"{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The most dramatic way to end a letter is: \"P.S. {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "What should you label your computer porn to prevent your mom from opening it?",
+          "x": true
+        },
+        {
+          "prompt": "Before marmalade, Paddington Bear had a crippling addiction to {0}",
+          "x": true
+        },
+        {
+          "prompt": "The one thing you should never put in a communal fridge",
+          "x": false
+        },
+        {
+          "prompt": "The title of Herman Melville's unpublished sequel: Moby Dick 2: {0}",
+          "x": false
+        },
+        {
+          "prompt": "The next hit dating reality series: Love is {0}",
+          "x": false
+        },
+        {
+          "prompt": "Honestly, {0} might as well be a curse word",
+          "x": false
+        },
+        {
+          "prompt": "Name a snack food for mummies",
+          "x": false
+        },
+        {
+          "prompt": "If Virginia is for lovers, then Alabama is for {0}",
+          "x": false
+        },
+        {
+          "prompt": "The title of a gritty sequel to Goodnight Moon",
+          "x": false
+        },
+        {
+          "prompt": "In MacGyver's most awkward life-and-death moment, he only had a pocket full of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Did you know that {ANYPLAYER} founded the {0} Club in high school?",
+          "x": false
+        },
+        {
+          "prompt": "You can tell the wine tasting is cheap when the chardonnay has notes of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Ok, which one of you used the Xerox to make copies of {0}?",
+          "x": false
+        },
+        {
+          "prompt": "An accurate slogan would be \"The Suburbs: {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "Oh! The handcuffs in the bedroom? They're not for sex! They're for {0}!",
+          "x": true
+        },
+        {
+          "prompt": "The button on the microwave that never gets used",
+          "x": false
+        },
+        {
+          "prompt": "Who's really America's Sweetheart?",
+          "x": false
+        },
+        {
+          "prompt": "Due to funding cuts, Broadway's Phantom is now Phantom of the {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most useless feature of luxury coffins",
+          "x": false
+        },
+        {
+          "prompt": "If you want to be a SUPER model, strut to the end of the runway and then {0}",
+          "x": false
+        },
+        {
+          "prompt": "What your smart speaker wishes it could say to you",
+          "x": false
+        },
+        {
+          "prompt": "Never trust a veterinarian who decorates their waiting room with {0}",
+          "x": false
+        },
+        {
+          "prompt": "Your cat can talk for one minute. What do you chat about?",
+          "x": false
+        },
+        {
+          "prompt": "A group of tax attorneys is called {0}",
+          "x": false
+        },
+        {
+          "prompt": "Nothing can stop the Terminator. Well, nothing except {0}",
+          "x": false
+        },
+        {
+          "prompt": "If she were alive today, Marie Antoinette would probably say \"Let them eat {0}!\"",
+          "x": false
+        },
+        {
+          "prompt": "Fine!!! What's the sexiest animal?",
+          "x": true
+        },
+        {
+          "prompt": "The amusement park was a bust. Now what do we do with all these cloned dinosaurs?!",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to step on with bare feet",
+          "x": false
+        },
+        {
+          "prompt": "Did you know that Ben Franklin also invented {0}?",
+          "x": false
+        },
+        {
+          "prompt": "The dance move that finally killed disco was called \"The Funky {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to write inside a \"get well soon\" card",
+          "x": false
+        },
+        {
+          "prompt": "A bar for corrupt politicians",
+          "x": false
+        },
+        {
+          "prompt": "A job title you probably shouldn't put on your LinkedIn profile",
+          "x": false
+        },
+        {
+          "prompt": "In heaven, you will be surrounded by friends, family and, for some reason, {0}",
+          "x": false
+        },
+        {
+          "prompt": "What did the band the Barenaked Ladies originally call themselves?",
+          "x": false
+        },
+        {
+          "prompt": "The most innocent thing you could type that would result in a Twitter fight",
+          "x": false
+        },
+        {
+          "prompt": "One thing someone could whisper in your ear to win your heart forever",
+          "x": false
+        },
+        {
+          "prompt": "The name Dr. Frankenstein wanted to give his monster but decided against it",
+          "x": false
+        },
+        {
+          "prompt": "If humans could acquire a sixth sense, it should be {0}",
+          "x": false
+        },
+        {
+          "prompt": "The coolest thing to pop out of Wolverine's hands instead of metal claws",
+          "x": false
+        },
+        {
+          "prompt": "Something SO much worse than hair to find in your food",
+          "x": false
+        },
+        {
+          "prompt": "Name the sequel to Cats. Cats 2: {0}",
+          "x": false
+        },
+        {
+          "prompt": "The strangest thing to discover in a mummy's tomb",
+          "x": false
+        },
+        {
+          "prompt": "A surprising thing to get trapped in your Invisalign clear tooth aligner",
+          "x": false
+        },
+        {
+          "prompt": "Avoid any restaurant with a sign that says \"As Seen on {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "It would actually be chill to die in an avalanche of {0}",
+          "x": false
+        },
+        {
+          "prompt": "First, the Grinch stole Christmas. But he went too far when he stole {0}",
+          "x": false
+        }
+      ],
+      "round2": [
+        {
+          "prompt": "Bank heist plan: Step 1. Approach bank teller. Step 2. {0}",
+          "x": false
+        },
+        {
+          "prompt": "The greatest trick the Devil ever played was {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most intriguing phrase to find in a dating profile",
+          "x": false
+        },
+        {
+          "prompt": "If a candidate did this, they would instantly win my vote",
+          "x": false
+        },
+        {
+          "prompt": "A sure sign your co-worker is a robot",
+          "x": false
+        },
+        {
+          "prompt": "What sign was left off of the zodiac?",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to say during an autopsy",
+          "x": false
+        },
+        {
+          "prompt": "You can expect tragedy when the tarot reader turns the card depicting {0}",
+          "x": false
+        },
+        {
+          "prompt": "What do super progressive schools give instead of grades?",
+          "x": false
+        },
+        {
+          "prompt": "What is the one trick magicians refuse to do?",
+          "x": false
+        },
+        {
+          "prompt": "A really terrible job would be the brand ambassador for {0}",
+          "x": false
+        },
+        {
+          "prompt": "There is a famous assassin who shows no mercy. They call her {0}",
+          "x": false
+        },
+        {
+          "prompt": "What Santa's elves do when the old man is sleeping",
+          "x": false
+        },
+        {
+          "prompt": "The secret thing you must do to pass the final exams at Hogwarts",
+          "x": false
+        },
+        {
+          "prompt": "The one thing the entire family can agree upon at Thanksgiving dinner",
+          "x": false
+        },
+        {
+          "prompt": "\"She's a cop. He's a celebrity chef! This summer they're...\"",
+          "x": false
+        },
+        {
+          "prompt": "After \"the wheel\" and \"fire,\" what was humanity's third discovery?",
+          "x": false
+        },
+        {
+          "prompt": "A theatrical production you'll never see at an elementary school",
+          "x": true
+        },
+        {
+          "prompt": "What trap was a little too severe for the final cut of Home Alone?",
+          "x": false
+        },
+        {
+          "prompt": "Everybody forgets that one Friends episode titled \"The One Where {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "What Ronald McDonald dreams about",
+          "x": false
+        },
+        {
+          "prompt": "The Queer Eye expert who didn't make the cut specialized in {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to hear after saying \"I love you\"",
+          "x": false
+        },
+        {
+          "prompt": "What God was thinking when he invented testicles",
+          "x": true
+        },
+        {
+          "prompt": "The one question science may never answer",
+          "x": false
+        },
+        {
+          "prompt": "You know it's a slow morning when {0} is trending on Twitter",
+          "x": false
+        },
+        {
+          "prompt": "What's behind the locked door the real estate agent refuses to show you?",
+          "x": false
+        },
+        {
+          "prompt": "Haunted House rules: 1. Do not touch the actors 2. {0}",
+          "x": false
+        },
+        {
+          "prompt": "What is a sexy vampire's biggest turnoff?",
+          "x": true
+        },
+        {
+          "prompt": "The only thing worse than watching {0} is watching it in slow-motion",
+          "x": false
+        },
+        {
+          "prompt": "A dangerous marital sex game: you tie yourself to the bed and they {0}",
+          "x": true
+        },
+        {
+          "prompt": "The name of a start-up company that's doomed to fail",
+          "x": false
+        },
+        {
+          "prompt": "What's the highest reported crime in Flavortown?",
+          "x": false
+        },
+        {
+          "prompt": "The first sign you are watching a very artsy horror film",
+          "x": false
+        },
+        {
+          "prompt": "{ANYPLAYER} took a DNA test. Turns out they're 100% {0}",
+          "x": false
+        },
+        {
+          "prompt": "An original theme for an escape room",
+          "x": false
+        },
+        {
+          "prompt": "A podcast nobody could resist would be about {0}",
+          "x": false
+        },
+        {
+          "prompt": "\"Honey, wasn't it weirdly unsettling how the babysitter {0}?\"",
+          "x": false
+        },
+        {
+          "prompt": "Death by {0} is uncommon, except in Florida",
+          "x": false
+        },
+        {
+          "prompt": "Thanos has gone too far this time! He destroyed half the {0} in the universe.",
+          "x": true
+        },
+        {
+          "prompt": "You know your clone isn't a perfect match when it {0}",
+          "x": false
+        },
+        {
+          "prompt": "The best perk of being in a cult",
+          "x": false
+        },
+        {
+          "prompt": "You can tell you're a middle child because you {0}",
+          "x": false
+        },
+        {
+          "prompt": "Spider-Man's secret guilty pleasure",
+          "x": false
+        },
+        {
+          "prompt": "The name for a cruise ship that only caters to single aunts",
+          "x": false
+        },
+        {
+          "prompt": "A horrifying phrase to see embroidered on Grandma's pillow",
+          "x": false
+        },
+        {
+          "prompt": "If Father's Day dinner were a tradition, what would be the table centerpiece?",
+          "x": false
+        },
+        {
+          "prompt": "It would be great to have a stunt double when you {0}",
+          "x": false
+        },
+        {
+          "prompt": "The random video YouTube keeps recommending that you end up loving",
+          "x": false
+        },
+        {
+          "prompt": "A terrible thing to remember during sex",
+          "x": true
+        },
+        {
+          "prompt": "The quickest way to get fired from Olive Garden",
+          "x": false
+        },
+        {
+          "prompt": "A search phrase you'd probably find in the president's browser history",
+          "x": false
+        },
+        {
+          "prompt": "The most scandalous sentence in your dream journal",
+          "x": false
+        },
+        {
+          "prompt": "The song choice that got you kicked out of karaoke night",
+          "x": false
+        },
+        {
+          "prompt": "A good way to distinguish yourself as the office \"bad boy\"",
+          "x": false
+        },
+        {
+          "prompt": "A surprising thing that DOES impress Shania Twain much",
+          "x": false
+        },
+        {
+          "prompt": "Idea for an improved hotel room sign: \"Privacy, Please. I'm {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A terrible song to play during the In Memoriam segment of an awards show",
+          "x": false
+        },
+        {
+          "prompt": "Two good emojis to send when breaking up with someone",
+          "x": false
+        },
+        {
+          "prompt": "A sign that your spin instructor hates you",
+          "x": false
+        },
+        {
+          "prompt": "Passive-aggressive ghosts are always writing {0} on your wall in blood",
+          "x": false
+        },
+        {
+          "prompt": "A bikini car wash is a great way to raise money. A bikini {0} is not.",
+          "x": false
+        },
+        {
+          "prompt": "{ANYPLAYER} will one day be the subject of a viral meme called {0}",
+          "x": false
+        },
+        {
+          "prompt": "The discontinued Nobel Prize: the Nobel Prize in {0}",
+          "x": false
+        },
+        {
+          "prompt": "Supposedly, Rodin's The Thinker was thinking about {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most depressing New Year's resolution",
+          "x": false
+        },
+        {
+          "prompt": "A sort of bad thing you'd wish on your second-worst enemy",
+          "x": false
+        },
+        {
+          "prompt": "The best way to convince fast food customers to get a value meal",
+          "x": false
+        },
+        {
+          "prompt": "A little secret: if the line for the bathroom is too long, just {0}",
+          "x": false
+        },
+        {
+          "prompt": "Name for a sleepover prank that is a little too cruel",
+          "x": false
+        },
+        {
+          "prompt": "The worst part about raising a zombie child is {0}",
+          "x": false
+        },
+        {
+          "prompt": "What's the coolest answer to the question, \"How did you get that scar?\"",
+          "x": false
+        },
+        {
+          "prompt": "The name of the subreddit that only has one follower: \"r/{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The nation was finally united when the president's press secretary announced, \"{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "In an alternate reality, we don't play Quiplash at parties. We {0}",
+          "x": false
+        },
+        {
+          "prompt": "The Law & Order sound should play whenever {0}",
+          "x": false
+        },
+        {
+          "prompt": "The zombie apocalypse will be replaced by the trendier {0} apocalypse",
+          "x": false
+        },
+        {
+          "prompt": "You know your dog is basic AF when...",
+          "x": true
+        },
+        {
+          "prompt": "Shoplifting would drastically decrease if malls introduced {0}",
+          "x": false
+        },
+        {
+          "prompt": "Print was dying until they put out {0} Magazine",
+          "x": false
+        },
+        {
+          "prompt": "The name of an intensely competitive cooking show",
+          "x": false
+        },
+        {
+          "prompt": "At the most bizarre sex parties, people don't wear masks. They wear {0}",
+          "x": true
+        },
+        {
+          "prompt": "What the blue verified checkmark on Twitter really means",
+          "x": false
+        },
+        {
+          "prompt": "A video that would not go over well on TikTok",
+          "x": false
+        },
+        {
+          "prompt": "The field day activity deemed \"too deadly\"",
+          "x": false
+        },
+        {
+          "prompt": "Let's say you have writer's block during a comedy game... what's the cure?",
+          "x": false
+        },
+        {
+          "prompt": "The Greeks invented democracy, but few know they also invented {0}",
+          "x": false
+        },
+        {
+          "prompt": "The #1 cause of divorce among citizens of LEGOLAND",
+          "x": false
+        },
+        {
+          "prompt": "The only dog who didn't get into heaven",
+          "x": false
+        },
+        {
+          "prompt": "What description of a dessert would also make a good drag queen name?",
+          "x": false
+        },
+        {
+          "prompt": "A college degree that will be surprisingly useful in 20 years",
+          "x": false
+        },
+        {
+          "prompt": "What's the easiest way to get on ESPN's highlight reel?",
+          "x": false
+        },
+        {
+          "prompt": "The perfect adventuring party includes a fighter, a wizard, and a {0}",
+          "x": false
+        },
+        {
+          "prompt": "No, really... what is love?",
+          "x": false
+        },
+        {
+          "prompt": "How does Santa Claus get into houses without chimneys?",
+          "x": false
+        },
+        {
+          "prompt": "How can you tell that an Artificial Intelligence has turned evil?",
+          "x": false
+        },
+        {
+          "prompt": "How would society spend its time if Netflix didn't exist?",
+          "x": false
+        },
+        {
+          "prompt": "The title of a book known as \"the next Fifty Shades of Grey\"",
+          "x": true
+        },
+        {
+          "prompt": "The worst way to end a Best Man wedding speech",
+          "x": false
+        },
+        {
+          "prompt": "{ANYPLAYER}'s trophy case is full of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Uh-oh, what's Scary Conspiracy Uncle talking about this year?",
+          "x": false
+        },
+        {
+          "prompt": "You can tell a nature documentary is fake when {0}",
+          "x": false
+        },
+        {
+          "prompt": "The senior prom theme most often rejected by high schools",
+          "x": false
+        },
+        {
+          "prompt": "In new fairy tales, the \"handsome prince\" will be replaced by {0}",
+          "x": false
+        },
+        {
+          "prompt": "In the Renaissance, Bob Ross's nickname would have been {0}",
+          "x": false
+        },
+        {
+          "prompt": "The secret gadget James Bond will never use again",
+          "x": false
+        },
+        {
+          "prompt": "What you never want to hear after the words: \"Don't worryâ€¦\"",
+          "x": false
+        },
+        {
+          "prompt": "What the heads on Mount Rushmore complain about",
+          "x": false
+        },
+        {
+          "prompt": "What's considered self-care for ancient warlocks?",
+          "x": false
+        },
+        {
+          "prompt": "A good sign that everyone is out to get you",
+          "x": false
+        },
+        {
+          "prompt": "God's short review of humanity",
+          "x": false
+        },
+        {
+          "prompt": "God sent this warning sign and we totally missed it",
+          "x": false
+        },
+        {
+          "prompt": "A polite way to weaken the aristocracy",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to say in an interview right after you've won the lottery",
+          "x": false
+        },
+        {
+          "prompt": "The weirdest compliment your doctor could give during a colonoscopy",
+          "x": true
+        },
+        {
+          "prompt": "What real leprechauns say about how they appear in pop culture",
+          "x": false
+        },
+        {
+          "prompt": "What happens after you've scrolled every single page of the internet?",
+          "x": false
+        },
+        {
+          "prompt": "What actually happens to that uneaten half of a donut in the office break room?",
+          "x": false
+        },
+        {
+          "prompt": "Forget karaoke. The next viral series will be called Carpool {0}",
+          "x": false
+        },
+        {
+          "prompt": "An absolutely scathing review for an eraser",
+          "x": false
+        },
+        {
+          "prompt": "I'm sorry, what did you call me!?",
+          "x": false
+        },
+        {
+          "prompt": "The worst way to start an apology",
+          "x": false
+        },
+        {
+          "prompt": "For some reason, they have yet to make a {0}-themed Monopoly board",
+          "x": false
+        },
+        {
+          "prompt": "The most surprising thing in Batman's Google search history",
+          "x": false
+        },
+        {
+          "prompt": "A good Halloween costume for a kid with an \"old soul\"",
+          "x": false
+        },
+        {
+          "prompt": "What you would expect to see on cable channel 1,000,000",
+          "x": false
+        },
+        {
+          "prompt": "The name of a movie that only uses footage from a car's rear camera",
+          "x": false
+        },
+        {
+          "prompt": "The weirdest function Iron Man's high-tech armor can perform",
+          "x": false
+        },
+        {
+          "prompt": "The personality quiz BuzzFeed refuses to publish",
+          "x": false
+        },
+        {
+          "prompt": "The most underrated use for a tree",
+          "x": false
+        },
+        {
+          "prompt": "How to get the guy at the kayak rental place to say, \"Yuck, just keep it\"",
+          "x": false
+        },
+        {
+          "prompt": "A country is only as strong as its {0}",
+          "x": false
+        },
+        {
+          "prompt": "\"Objection, Your Honor! The defense counsel is clearly {0} the witness!\"",
+          "x": false
+        },
+        {
+          "prompt": "A team-building exercise that is far too extreme for most company retreats",
+          "x": false
+        },
+        {
+          "prompt": "Instead of darkness, an awesome thing to see every time you blink",
+          "x": false
+        },
+        {
+          "prompt": "The name of a punctuation mark used when a statement is followed by a fart",
+          "x": false
+        },
+        {
+          "prompt": "A new football penalty: the offense loses 20 yards for {0}",
+          "x": false
+        },
+        {
+          "prompt": "Your spouse is keeping a terrible secret. Their {0} isn't real!!!",
+          "x": false
+        },
+        {
+          "prompt": "Pool Schedule: After free swim and adult swim, there will be {0} swim.",
+          "x": false
+        },
+        {
+          "prompt": "A better wedding tradition than tossing the bouquet would be tossing {0}",
+          "x": false
+        },
+        {
+          "prompt": "WARNING: Fairy dust may contain {0}",
+          "x": false
+        },
+        {
+          "prompt": "The street name for chewable vitamin C",
+          "x": false
+        },
+        {
+          "prompt": "A reality show nobody would miss: The Masked {0}",
+          "x": false
+        },
+        {
+          "prompt": "The best way to keep someone from sitting next to you on a bus",
+          "x": false
+        },
+        {
+          "prompt": "A sign that your local zoo has run out of money",
+          "x": false
+        },
+        {
+          "prompt": "An unexpected benefit of peeing your pants",
+          "x": false
+        },
+        {
+          "prompt": "A gentler way to say \"low sperm count\"",
+          "x": true
+        },
+        {
+          "prompt": "What would you put in a movie to make sure it would win an Oscar?",
+          "x": false
+        },
+        {
+          "prompt": "A good sign you're slowly turning into a squirrel",
+          "x": false
+        },
+        {
+          "prompt": "The biggest reason the world will be better in a hundred years",
+          "x": false
+        },
+        {
+          "prompt": "What usually goes through Dracula's mind as he bites someone",
+          "x": false
+        },
+        {
+          "prompt": "A good sign that you're gonna be kicked out of the Justice League",
+          "x": false
+        },
+        {
+          "prompt": "Advice {ANYPLAYER} would get from a financial planner: \"You spend too much on {0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A brutally honest theme for a valedictorian speech",
+          "x": false
+        },
+        {
+          "prompt": "How you can tell you've been kidnapped by amateur criminals",
+          "x": false
+        },
+        {
+          "prompt": "Parents can't be too proud when their child turns out to be a prodigy at {0}",
+          "x": false
+        },
+        {
+          "prompt": "A good name for a detective agency run by kids",
+          "x": false
+        },
+        {
+          "prompt": "Family game night got deadly silent when Grandma suggested we play {0}",
+          "x": false
+        },
+        {
+          "prompt": "Something Andy Warhol would have painted today, probably",
+          "x": false
+        },
+        {
+          "prompt": "What Bill Murray whispered to Scarlett Johansson at the end of Lost in Translation",
+          "x": false
+        },
+        {
+          "prompt": "What does Punxsutawney Phil do for spring break?",
+          "x": false
+        },
+        {
+          "prompt": "You know somebody stole {ANYPLAYER}'s credit card when there's a charge for {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst part about having Tom Hanks as your mortal enemy",
+          "x": false
+        },
+        {
+          "prompt": "Something you might overhear in the Batcave",
+          "x": false
+        },
+        {
+          "prompt": "A good sign your significant other is cheating on you with a snowman",
+          "x": false
+        },
+        {
+          "prompt": "If your mom were a superhero, what signal would you shine in the sky to summon her?",
+          "x": false
+        },
+        {
+          "prompt": "What's an interesting fact on Stephen King's resume?",
+          "x": false
+        },
+        {
+          "prompt": "A bold and unexpected song choice for a newlywed couple's first dance",
+          "x": false
+        },
+        {
+          "prompt": "A good name for a real bad boy golfer",
+          "x": false
+        },
+        {
+          "prompt": "In fifty years, retirement homes will be full of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Good news: there's cake in the breakroom. Bad news: it says {0}",
+          "x": false
+        },
+        {
+          "prompt": "{ANYPLAYER}'s dream house comes pre-stocked with {0}",
+          "x": false
+        },
+        {
+          "prompt": "Falling in love is not all puppies and unicorns. Sometimes it's {0}",
+          "x": false
+        },
+        {
+          "prompt": "What do you get the woman who has everything?",
+          "x": false
+        },
+        {
+          "prompt": "The world's most compassionate exterminator removes bugs by {0}",
+          "x": false
+        },
+        {
+          "prompt": "Oh, you don't believe in miracles? Then explain {0}!",
+          "x": false
+        },
+        {
+          "prompt": "What is dark chocolate's dark secret?",
+          "x": false
+        },
+        {
+          "prompt": "What's the unspoken rule of hardcore knitting clubs?",
+          "x": false
+        },
+        {
+          "prompt": "What tattoo will actually help you in an interview for a programmer job?",
+          "x": false
+        },
+        {
+          "prompt": "You woke up covered in chocolate sauce, next to a live pig. Where were you last night?",
+          "x": false
+        },
+        {
+          "prompt": "A brilliant way to fool facial recognition technology",
+          "x": false
+        },
+        {
+          "prompt": "A sure sign someone has been struck by lightning more than once",
+          "x": false
+        },
+        {
+          "prompt": "An underwhelming political slogan from a centrist candidate",
+          "x": false
+        },
+        {
+          "prompt": "The most embarrassing place to witness someone screaming, \"I want to speak to your manager!\"",
+          "x": false
+        },
+        {
+          "prompt": "Want to know what gets rid of a headache fast? Try {0}",
+          "x": false
+        },
+        {
+          "prompt": "Something that's better left to people under 30",
+          "x": false
+        },
+        {
+          "prompt": "America's second favorite pastime",
+          "x": false
+        },
+        {
+          "prompt": "How can you tell your tailor is in love with you?",
+          "x": false
+        },
+        {
+          "prompt": "What do mannequins do when the department store closes?",
+          "x": false
+        },
+        {
+          "prompt": "A new toilet gadget nobody admits to using can actually {0}",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing a father could tell his son on his wedding day",
+          "x": false
+        },
+        {
+          "prompt": "A cautionary road sign no one would ignore",
+          "x": false
+        },
+        {
+          "prompt": "Instead of on-hold music, companies should offer callers {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most common dating faux pas among dragons",
+          "x": false
+        },
+        {
+          "prompt": "What most people don't understand about elephant sex",
+          "x": true
+        },
+        {
+          "prompt": "The erotic thriller nobody wants to see: The Forbidden Diaries of {0}",
+          "x": true
+        },
+        {
+          "prompt": "The most haunted item at an estate sale",
+          "x": false
+        },
+        {
+          "prompt": "You can tell a serial killer is trying to be caught when they {0}",
+          "x": false
+        },
+        {
+          "prompt": "The most common error found on Wikipedia",
+          "x": false
+        },
+        {
+          "prompt": "This 3D fantasy adventure game is so real you can actually {0}",
+          "x": false
+        },
+        {
+          "prompt": "What screen name can you just go ahead and assume is a bot?",
+          "x": false
+        },
+        {
+          "prompt": "For the sake of accuracy, the natural history museum had to remove the {0} exhibit",
+          "x": false
+        },
+        {
+          "prompt": "The last thing an art museum security guard wants to find at night",
+          "x": false
+        },
+        {
+          "prompt": "The most powerful thing you can declare before leaving a room",
+          "x": false
+        },
+        {
+          "prompt": "If {ANYPLAYER} had a catchphrase, it would be...",
+          "x": false
+        },
+        {
+          "prompt": "{ANYPLAYER} would win a talent competition by...",
+          "x": false
+        },
+        {
+          "prompt": "A special skill listed on {ANYPLAYER}'s resume",
+          "x": false
+        },
+        {
+          "prompt": "The name of {ANYPLAYER}'s signature dance move",
+          "x": false
+        },
+        {
+          "prompt": "The opening line of {ANYPLAYER}'s one-person show",
+          "x": false
+        },
+        {
+          "prompt": "You have to defeat {ANYPLAYER} in gladiatorial combat. What weapon do you choose?",
+          "x": false
+        },
+        {
+          "prompt": "{ANYPLAYER} never met a {0} they didn't like",
+          "x": false
+        },
+        {
+          "prompt": "If aliens abducted {ANYPLAYER}, what would they learn about humans?",
+          "x": false
+        },
+        {
+          "prompt": "{ANYPLAYER} would never hurt a fly, but they would hurt {0}",
+          "x": false
+        },
+        {
+          "prompt": "A terrible theme for your daughter's debutante ball",
+          "x": true
+        },
+        {
+          "prompt": "The reason you were removed from your grandfather's will",
+          "x": true
+        },
+        {
+          "prompt": "Only after her death did we discover Granny's tattoo of {0}",
+          "x": true
+        },
+        {
+          "prompt": "A thought you've had in the last 24 hours but didn't share with anyone",
+          "x": false
+        },
+        {
+          "prompt": "It's easy to annoy {ANYPLAYER}. You just {0}",
+          "x": false
+        },
+        {
+          "prompt": "If you get a case of {ANYPLAYER} fever, it can only be cured by {0}",
+          "x": false
+        },
+        {
+          "prompt": "If {ANYPLAYER} were a fashion model, they'd be famous for wearing {0}",
+          "x": false
+        },
+        {
+          "prompt": "I named my cat after {ANYPLAYER} because my cat is always {0}",
+          "x": false
+        },
+        {
+          "prompt": "The only thing preventing {ANYPLAYER} from being a globe-trotting secret agent",
+          "x": false
+        },
+        {
+          "prompt": "There's limited space in the bomb shelter but {ANYPLAYER} insisted on bringing {0}",
+          "x": false
+        },
+        {
+          "prompt": "Why would {ANYPLAYER} be the first to die in a horror movie?",
+          "x": false
+        },
+        {
+          "prompt": "I need to hide treasure in a place {ANYPLAYER} will never look. Where should it go?",
+          "x": false
+        },
+        {
+          "prompt": "Why doesn't {ANYPLAYER} show up in photographs?",
+          "x": false
+        },
+        {
+          "prompt": "I want to go as {ANYPLAYER} for Halloween, but I don't have {0}",
+          "x": false
+        },
+        {
+          "prompt": "The new {ANYPLAYER} doll is perfect! Everytime you pull the string it says \"{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to say after making eye contact with someone in an elevator",
+          "x": false
+        },
+        {
+          "prompt": "All the jesters have failed! Only one thing will entertain the king...",
+          "x": false
+        },
+        {
+          "prompt": "What's the hardest part of fighting a killer doll?",
+          "x": false
+        },
+        {
+          "prompt": "The main difference between TV doctors and real doctors",
+          "x": false
+        },
+        {
+          "prompt": "There should be an emoji that expresses the feeling of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Right before open-heart surgery, improve your odds by telling your doctor {0}",
+          "x": false
+        },
+        {
+          "prompt": "What God was thinking when he designed the butt",
+          "x": false
+        },
+        {
+          "prompt": "Oh dear, now Lin-Manuel Miranda is writing a hip-hop musical about {0}",
+          "x": false
+        },
+        {
+          "prompt": "The landmark Supreme Court decision of 2045: My Wife v. {0}",
+          "x": false
+        },
+        {
+          "prompt": "What's the most common email signature for scammers?",
+          "x": false
+        },
+        {
+          "prompt": "Sigh... why is it impossible to find a good man these days?",
+          "x": false
+        },
+        {
+          "prompt": "Something you wish real life had in common with sitcoms",
+          "x": false
+        },
+        {
+          "prompt": "It's your big moment on stage! You find your spotlight, face the audience and {0}",
+          "x": false
+        },
+        {
+          "prompt": "What is the worst message you could leave on your therapist's voicemail?",
+          "x": false
+        },
+        {
+          "prompt": "The name of a boy band from the 1890s",
+          "x": false
+        },
+        {
+          "prompt": "A late-night text you might get from one of the Mario Bros.",
+          "x": false
+        },
+        {
+          "prompt": "The secret word(s) to enter {ANYPLAYER}'s bedroom",
+          "x": false
+        },
+        {
+          "prompt": "The weirdest thing to discover after coming out of anesthesia",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing someone could place on your chest before shutting your burial casket",
+          "x": false
+        },
+        {
+          "prompt": "What you might've seen in a sexy Tinder photo in 1930",
+          "x": false
+        },
+        {
+          "prompt": "A really disturbing thing a lifeguard could say during a rescue",
+          "x": false
+        },
+        {
+          "prompt": "What an extremely nice bouncer says when throwing people out of bars",
+          "x": false
+        },
+        {
+          "prompt": "A sure sign you are living in a Hallmark Channel holiday movie",
+          "x": false
+        },
+        {
+          "prompt": "If {ANYPLAYER} started a religion, it would be called the Church of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Want some attention? Go to a singles bar wearing a t-shirt that says \"{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "The most memorable fortune cookie fortune: You will {0} ...in bed.",
+          "x": false
+        },
+        {
+          "prompt": "Ok, so you trapped a fart in a jar. Now what?",
+          "x": false
+        },
+        {
+          "prompt": "What Santa Claus does on December 26th",
+          "x": false
+        },
+        {
+          "prompt": "Even for $100,000 you would not get this phrase tattooed across your back",
+          "x": false
+        },
+        {
+          "prompt": "The name of Shrek's heart-wrenching new memoir",
+          "x": false
+        },
+        {
+          "prompt": "A prank Abe Lincoln loved to play at the White House",
+          "x": false
+        },
+        {
+          "prompt": "A terrible slogan for ravioli",
+          "x": false
+        },
+        {
+          "prompt": "Daddy, where do we go when we die?",
+          "x": false
+        },
+        {
+          "prompt": "An extraterrestrial's honest assessment of Star Trek",
+          "x": false
+        },
+        {
+          "prompt": "What Jupiter says about other planets when it gets drunk",
+          "x": false
+        },
+        {
+          "prompt": "The main attraction of the worst opening ceremony in Olympics history",
+          "x": false
+        },
+        {
+          "prompt": "Poets be like...",
+          "x": false
+        },
+        {
+          "prompt": "A catchphrase for a haunted toilet",
+          "x": false
+        },
+        {
+          "prompt": "The Renaissance of 2030 will be defined by a resurgence of {0}",
+          "x": false
+        },
+        {
+          "prompt": "The name of a mermaid's stand-up comedy Netflix special",
+          "x": false
+        },
+        {
+          "prompt": "The opposite of music",
+          "x": false
+        },
+        {
+          "prompt": "It would be really weird if this item had an expiration date printed on it",
+          "x": false
+        },
+        {
+          "prompt": "You know your mechanic is ripping you off when they tell you this",
+          "x": false
+        },
+        {
+          "prompt": "What the creepy doll in the antique store is trying to tell you with its eyes",
+          "x": false
+        },
+        {
+          "prompt": "What would you do if you were only 2 inches tall?",
+          "x": false
+        },
+        {
+          "prompt": "You would secretly buy a book called How To {0}",
+          "x": false
+        },
+        {
+          "prompt": "The title of {ANYPLAYER}'s MasterClass series",
+          "x": false
+        },
+        {
+          "prompt": "A freeway billboard ad that would make you careen toward the exit ramp",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing to read on a whiteboard when you enter a meeting room",
+          "x": false
+        },
+        {
+          "prompt": "An epiphany you have at your 20 year high school reunion",
+          "x": false
+        },
+        {
+          "prompt": "The name of a rom-com where two fishermen fall in love",
+          "x": false
+        },
+        {
+          "prompt": "There should be a patch in Stardew Valley that lets you {0} on your farm",
+          "x": false
+        },
+        {
+          "prompt": "The worst response to \"send nudes\"",
+          "x": true
+        },
+        {
+          "prompt": "If a man uses this word to describe a horse, you should not buy a horse from him",
+          "x": false
+        },
+        {
+          "prompt": "You should never sign a document that includes the phrase...",
+          "x": false
+        },
+        {
+          "prompt": "An unlikely candidate for Pantone's Color of the Year",
+          "x": false
+        },
+        {
+          "prompt": "The best thing to come out of New Jersey",
+          "x": false
+        },
+        {
+          "prompt": "The name of a newspaper that only reports on sexy crimes",
+          "x": true
+        },
+        {
+          "prompt": "An absolutely faaabulous way to die",
+          "x": false
+        },
+        {
+          "prompt": "How to turn farming into \"high fashion\"",
+          "x": false
+        },
+        {
+          "prompt": "An awesome side effect of climate change, hopefully",
+          "x": false
+        },
+        {
+          "prompt": "A radical new use for a gravy boat",
+          "x": false
+        },
+        {
+          "prompt": "This cuckoo clock is disgusting. When it rings, instead of a bird a {0} comes out.",
+          "x": false
+        },
+        {
+          "prompt": "Keytars are out! The hot new combination instrument is the {0}",
+          "x": false
+        },
+        {
+          "prompt": "A new feature of the iPhone 37",
+          "x": false
+        },
+        {
+          "prompt": "The most disappointing last line of a mystery novel, probably",
+          "x": false
+        },
+        {
+          "prompt": "Did you see they're having a sale on that off-off-off-brand perfume, {0}?",
+          "x": false
+        },
+        {
+          "prompt": "Name of a new TikTok dance the kids are wild about",
+          "x": false
+        },
+        {
+          "prompt": "Name for a truly insufferable morning radio show",
+          "x": false
+        },
+        {
+          "prompt": "The worst thing about dating a bearded man",
+          "x": false
+        },
+        {
+          "prompt": "Your bathroom isn't dirty, but it has started growing {0}",
+          "x": false
+        },
+        {
+          "prompt": "What the vision chart spells out when the eye doctor secretly hates you",
+          "x": false
+        },
+        {
+          "prompt": "Why doesn't the Loch Ness Monster want to be found?",
+          "x": false
+        },
+        {
+          "prompt": "Euclid's smartest invention was geometry. His stupidest invention was {0}",
+          "x": false
+        },
+        {
+          "prompt": "What a cavewoman said when she first created fire",
+          "x": false
+        },
+        {
+          "prompt": "Valhalla is heaven for warriors. Value City is heaven for {0}",
+          "x": false
+        },
+        {
+          "prompt": "Something that should never be decided by a coin toss",
+          "x": false
+        },
+        {
+          "prompt": "The next goal on Jeff Bezos's vision board",
+          "x": false
+        },
+        {
+          "prompt": "A game you only play when you're really, really, really, REALLY bored",
+          "x": false
+        },
+        {
+          "prompt": "Something a teacher trying desperately to be cool would say",
+          "x": false
+        },
+        {
+          "prompt": "What new rule would make MMA safer?",
+          "x": false
+        },
+        {
+          "prompt": "A common inscription on a pirate's headstone",
+          "x": false
+        },
+        {
+          "prompt": "A character that would really spice up the Bible",
+          "x": false
+        },
+        {
+          "prompt": "An old-fashioned way to cheer up your friend after a breakup",
+          "x": false
+        },
+        {
+          "prompt": "A Shakespeare play written specifically for accountants",
+          "x": false
+        },
+        {
+          "prompt": "The best dish to make to impress your vampire boyfriend",
+          "x": false
+        },
+        {
+          "prompt": "A vape juice flavor made specifically for people over 70",
+          "x": false
+        },
+        {
+          "prompt": "A nickname for marijuana that never really caught on",
+          "x": false
+        },
+        {
+          "prompt": "A pretty unprofessional name for an office chat channel",
+          "x": false
+        },
+        {
+          "prompt": "An unexpected perk of being a magician's assistant",
+          "x": false
+        },
+        {
+          "prompt": "Beware! A witch cursed me, and now I am doomed to a life of {0}",
+          "x": true
+        },
+        {
+          "prompt": "What's the most challenging chore when you're a handyman for a haunted house?",
+          "x": false
+        },
+        {
+          "prompt": "I promise not to tell anybody... but seriously... what WOULD you kill for?",
+          "x": false
+        },
+        {
+          "prompt": "A magazine you don't want to see in the waiting room of your doctor's office",
+          "x": false
+        },
+        {
+          "prompt": "A comment that would have offended you ten years ago, but now you don't give a sh*t",
+          "x": true
+        },
+        {
+          "prompt": "The local library does not want your donation of this book",
+          "x": false
+        },
+        {
+          "prompt": "People would pay good money to see historical footage of {0}",
+          "x": false
+        },
+        {
+          "prompt": "In a fair society, what should be the punishment for littering?",
+          "x": false
+        },
+        {
+          "prompt": "The worst name for a home security company",
+          "x": false
+        },
+        {
+          "prompt": "A code name a nervous spy would give himself on his first mission",
+          "x": false
+        },
+        {
+          "prompt": "What usually stops boomerangs from returning?",
+          "x": false
+        },
+        {
+          "prompt": "Will somebody please tell me what makes drummers so sexy?!",
+          "x": true
+        },
+        {
+          "prompt": "The title of a web series no one asked for",
+          "x": false
+        },
+        {
+          "prompt": "The hottest Christmas gift in 1910",
+          "x": false
+        },
+        {
+          "prompt": "The biggest perk of living in a cave",
+          "x": false
+        },
+        {
+          "prompt": "Why do most mimes end up in the hospital?",
+          "x": false
+        },
+        {
+          "prompt": "The most confusing name for a nail polish color",
+          "x": false
+        },
+        {
+          "prompt": "The scientist was probably hungry when they named the bird they discovered {0}",
+          "x": false
+        },
+        {
+          "prompt": "A solid pick-up line for a hockey player",
+          "x": false
+        },
+        {
+          "prompt": "The monument to human achievement the aliens will destroy first",
+          "x": false
+        },
+        {
+          "prompt": "When the earth is dust and the stars burn out, only one thing will remain...",
+          "x": false
+        },
+        {
+          "prompt": "Why did Pac-Man and Ms. Pac-Man eventually split up?",
+          "x": false
+        },
+        {
+          "prompt": "The weird hazing ritual astronauts must endure on their first space mission",
+          "x": false
+        },
+        {
+          "prompt": "A good sign that your grandmother hates you",
+          "x": false
+        },
+        {
+          "prompt": "SorrY guYzz, I acccidentalllY sp*llled {0} allllll over mY KeYboar-d",
+          "x": false
+        },
+        {
+          "prompt": "You know you're addicted to Wikipedia when you start reading about {0}",
+          "x": false
+        },
+        {
+          "prompt": "You'll know you met your soulmate when they {0}",
+          "x": false
+        },
+        {
+          "prompt": "A new casino game you're definitely going to lose money on",
+          "x": false
+        },
+        {
+          "prompt": "Describe the cover model on the \"Medieval Hunks of 1506\" calendar",
+          "x": true
+        },
+        {
+          "prompt": "A command given to the world's most intellectual dog",
+          "x": false
+        },
+        {
+          "prompt": "The most radical and totally extreme way to say you're sorry",
+          "x": false
+        },
+        {
+          "prompt": "It's just a matter of time before someone goes through {ANYPLAYER}'s phone and finds {0}",
+          "x": false
+        },
+        {
+          "prompt": "The least convincing excuse for that hickey",
+          "x": true
+        },
+        {
+          "prompt": "A sure sign your therapist has stopped listening to you",
+          "x": false
+        },
+        {
+          "prompt": "The big audience participation action in late-night screenings of The Wizard of Oz",
+          "x": false
+        },
+        {
+          "prompt": "A sign that your romantic partner is actually a scarecrow",
+          "x": false
+        },
+        {
+          "prompt": "The title of the most Bruce Springsteen-y song that doesn't exist",
+          "x": false
+        },
+        {
+          "prompt": "The best way to distract a child getting a flu shot",
+          "x": false
+        },
+        {
+          "prompt": "What scandal will rock the North Pole this year?",
+          "x": false
+        },
+        {
+          "prompt": "When a rock star asks, \"How y'all doing tonight!?\"... you should never shout back \"{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "A fun way to let your partner know you are \"not in the mood\" tonight",
+          "x": true
+        },
+        {
+          "prompt": "What was the SECOND thing Alexander Graham Bell said on the very first phone call?",
+          "x": false
+        },
+        {
+          "prompt": "Coming up next on BBC 4, the new and extremely British sitcom {0}",
+          "x": false
+        },
+        {
+          "prompt": "Welcome to the town of Flangenheidenparanudevallen, which, in English, means \"{0}\"",
+          "x": true
+        },
+        {
+          "prompt": "What review fits both a summer blockbuster movie and your last date?",
+          "x": false
+        },
+        {
+          "prompt": "The name of a new police drama about crime in the sky",
+          "x": false
+        },
+        {
+          "prompt": "They really should cancel high school gym class and replace it with {0}",
+          "x": false
+        },
+        {
+          "prompt": "A new store at the mall that caters to a highly specific clientele",
+          "x": false
+        },
+        {
+          "prompt": "{0} clubs are the new book clubs",
+          "x": false
+        },
+        {
+          "prompt": "Driver safety tip: It's unwise to operate a motor vehicle and {0} at the same time.",
+          "x": false
+        },
+        {
+          "prompt": "A heartfelt dedication in a book that would make you immediately not want to read the book",
+          "x": false
+        },
+        {
+          "prompt": "The name of a pretentious short film produced by a cat",
+          "x": false
+        },
+        {
+          "prompt": "Reviews have been mixed for the new series 20 Minute Guided Meditations with {0}",
+          "x": false
+        },
+        {
+          "prompt": "What did Goldilocks say when she took her date home?",
+          "x": false
+        },
+        {
+          "prompt": "Your geometry teacher's favorite pickup line",
+          "x": false
+        },
+        {
+          "prompt": "Oddly enough, the winning project of the World Science Fair is {0}",
+          "x": false
+        },
+        {
+          "prompt": "Serious question: who's a good boy? Who's a good boy??",
+          "x": false
+        },
+        {
+          "prompt": "A headline you'd really like to see in tomorrow's newspaper",
+          "x": false
+        },
+        {
+          "prompt": "A comic book crossover you'd pay way too much money to see in a theater",
+          "x": false
+        },
+        {
+          "prompt": "The most important lesson in a social media class for senior citizens",
+          "x": false
+        },
+        {
+          "prompt": "Mark Zuckerberg probably has a folder on his desktop labeled \"{0}\"",
+          "x": false
+        },
+        {
+          "prompt": "We were fools! We should never have given machines the ability to {0}",
+          "x": false
+        },
+        {
+          "prompt": "A lyric you will never hear in a punk rock song",
+          "x": false
+        },
+        {
+          "prompt": "Why nobody wants to be roommates with Sherlock Holmes",
+          "x": false
+        },
+        {
+          "prompt": "Realistically, the third little pig should have made his house out of {0}",
+          "x": false
+        },
+        {
+          "prompt": "Green smoke is spewing out the chimney of the Sistine Chapel! That means {0}",
+          "x": false
+        },
+        {
+          "prompt": "It would be devastating to have a caricature artist draw you {0}",
+          "x": false
+        },
+        {
+          "prompt": "This simply should not be the image on a jigsaw puzzle",
+          "x": false
+        },
+        {
+          "prompt": "\"Emergency Room\" is so stressful! Why can't we just call it {0}?",
+          "x": false
+        },
+        {
+          "prompt": "The title of {ANYPLAYER}'s great American novel",
+          "x": false
+        },
+        {
+          "prompt": "You can't ski on that mountain!! It's called {0} for a reason!",
+          "x": false
+        },
+        {
+          "prompt": "What's the least helpful thing you can do while helping someone defuse a bomb?",
+          "x": false
+        },
+        {
+          "prompt": "The title of the YouTube video with the MOST negative comments",
+          "x": false
+        },
+        {
+          "prompt": "If you don't have a dog... why do you have that dog house?",
+          "x": false
+        },
+        {
+          "prompt": "How do a pair of mismatched cops pass the time on a stakeout?",
+          "x": false
+        },
+        {
+          "prompt": "What will be the leading cause of death in 2200?",
+          "x": false
+        },
+        {
+          "prompt": "What could an app called Squishlr be for?",
+          "x": false
+        },
+        {
+          "prompt": "What's the smoothest line a gardener could deliver on Singles Night?",
+          "x": false
+        },
+        {
+          "prompt": "To get past the internet troll under this bridge, you must answer this riddle...",
+          "x": false
+        },
+        {
+          "prompt": "What cause of death is both a tragedy and a comedy?",
+          "x": false
+        },
+        {
+          "prompt": "What's the biggest difference between birds and airplanes?",
+          "x": false
+        },
+        {
+          "prompt": "What calm Hulk down?",
+          "x": false
+        },
+        {
+          "prompt": "The first astronaut to walk on Mars will make this famous quote",
+          "x": true
+        },
+        {
+          "prompt": "What would you worship while your leader was talking to God somewhere in the mountains?",
+          "x": false
+        },
+        {
+          "prompt": "Let's be honest, it would be hard NOT to get into a van with {0} on it",
+          "x": false
+        },
+        {
+          "prompt": "A clear sign you brought the wrong baby home from the hospital",
+          "x": false
+        },
+        {
+          "prompt": "One thing that is a heck of a lot harder to do if you have diarrhea",
+          "x": false
+        },
+        {
+          "prompt": "The best excuse for being a lousy lover",
+          "x": true
+        },
+        {
+          "prompt": "The least helpful tip in Sun Tzu's The Art of War",
+          "x": false
+        },
+        {
+          "prompt": "The one thing that will always make a Buckingham Palace Guard crack a smile",
+          "x": false
+        },
+        {
+          "prompt": "The main quality that producers are looking for in a reality TV show participant",
+          "x": false
+        },
+        {
+          "prompt": "The absolute worst time to plug your podcast",
+          "x": false
+        },
+        {
+          "prompt": "One amendment you would add to the U.S. Constitution",
+          "x": false
+        },
+        {
+          "prompt": "The most noncommittal way of saying \"I love you\"",
+          "x": false
+        },
+        {
+          "prompt": "A \"cool guy\" thing to say when you trip and fall",
+          "x": false
+        },
+        {
+          "prompt": "Something you never want to hear shouted from a restaurant kitchen",
+          "x": false
+        },
+        {
+          "prompt": "There's probably a Google Earth picture of {ANYPLAYER} that catches them {0}",
+          "x": false
+        },
+        {
+          "prompt": "Something Gwyneth Paltrow has in her nightstand, probably",
+          "x": false
+        },
+        {
+          "prompt": "The most embarrassing email address to include on a job resume",
+          "x": false
+        },
+        {
+          "prompt": "The real reason sharks won't go on land",
+          "x": false
+        },
+        {
+          "prompt": "If there were a Fall Olympics, the most dangerous sport would be {0}",
+          "x": false
+        }
+      ],
+      "thriplash": [
+        {
+          "prompt": "The three things every good orgy has",
+          "x": true
+        },
+        {
+          "prompt": "The three things you must do to survive a zombie apocalypse",
+          "x": false
+        },
+        {
+          "prompt": "The only three things that can bring true happiness",
+          "x": false
+        },
+        {
+          "prompt": "The three worst Halloween costumes to make \"sexy\"",
+          "x": true
+        },
+        {
+          "prompt": "The three most painful ways a squirrel can hurt you",
+          "x": false
+        },
+        {
+          "prompt": "Like anger or denial, the three stages of grief that weren't mentioned by Kübler-Ross",
+          "x": false
+        },
+        {
+          "prompt": "The three things you can say to defuse a tense hostage situation",
+          "x": false
+        },
+        {
+          "prompt": "The three things you need to do to be a good dog... such a good dog",
+          "x": false
+        },
+        {
+          "prompt": "The three things on The Almighty's to-do list today",
+          "x": false
+        },
+        {
+          "prompt": "The 3 R's of a successful fast food franchise",
+          "x": false
+        },
+        {
+          "prompt": "Three commandments that didn't make the cut",
+          "x": false
+        },
+        {
+          "prompt": "The three steps to a successful breakup",
+          "x": false
+        },
+        {
+          "prompt": "The three things Batman insists on doing every day",
+          "x": false
+        },
+        {
+          "prompt": "Three unnecessarily explicit names for cocktails",
+          "x": true
+        },
+        {
+          "prompt": "The three things you MUST do to survive a bear attack",
+          "x": false
+        },
+        {
+          "prompt": "A baby's three first words that would raise much concern",
+          "x": false
+        },
+        {
+          "prompt": "Three toppings Baskin-Robbins will never offer",
+          "x": false
+        },
+        {
+          "prompt": "The three most annoying habits in the world",
+          "x": false
+        },
+        {
+          "prompt": "The three steps to castrating a horse",
+          "x": true
+        },
+        {
+          "prompt": "The three hardest things about being Mario",
+          "x": false
+        },
+        {
+          "prompt": "The three nicknames every frat brother tries to give himself",
+          "x": false
+        },
+        {
+          "prompt": "Three words that would make effective horror movie titles",
+          "x": false
+        },
+        {
+          "prompt": "Three theme parks more dangerous than Jurassic Park",
+          "x": false
+        },
+        {
+          "prompt": "The three things Canada is the world leader in",
+          "x": false
+        },
+        {
+          "prompt": "The three things you'd immediately do if you inherited one billion dollars",
+          "x": false
+        },
+        {
+          "prompt": "The three rules of making money are {0}, {1}, {2}",
+          "x": false
+        },
+        {
+          "prompt": "Three steps essential to any good exercise routine are {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "Three super-luxury services only available at the finest of hotels",
+          "x": false
+        },
+        {
+          "prompt": "Let's be honest: the only things you really need to become a lawyer are {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "Allow me to introduce my three toughest henchman: {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "The three forgotten steps in the Cha-Cha Slide",
+          "x": false
+        },
+        {
+          "prompt": "The next three characters they should add to Super Smash Bros. are {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "Three bad names for a kitten",
+          "x": false
+        },
+        {
+          "prompt": "Need to calm down after an argument? Just {0}, then {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "So you've \"totally read the Bible,\" huh? Then name THREE characters from it.",
+          "x": false
+        },
+        {
+          "prompt": "Three names that could either be for a dog or an adult toy",
+          "x": true
+        },
+        {
+          "prompt": "Bad news: they now take away your \"cool card\" if you like {0}, {1}, or {2}",
+          "x": false
+        },
+        {
+          "prompt": "Three things that probably won't exist in twenty years",
+          "x": false
+        },
+        {
+          "prompt": "Three things the worst couple you know always brings to dinner parties",
+          "x": false
+        },
+        {
+          "prompt": "Three things on Vladimir Putin's weekly shopping list",
+          "x": false
+        },
+        {
+          "prompt": "Three things you should NEVER leave in someone's bathroom",
+          "x": false
+        },
+        {
+          "prompt": "Three names of exercises in CrossFit, probably",
+          "x": false
+        },
+        {
+          "prompt": "The three big milestones Gen Z kids will experience",
+          "x": false
+        },
+        {
+          "prompt": "Three keywords that would most certainly pull up {ANYPLAYER} on the first page results",
+          "x": false
+        },
+        {
+          "prompt": "The three worst jobs in hell",
+          "x": false
+        },
+        {
+          "prompt": "Three things that usually only happen after 3 AM",
+          "x": false
+        },
+        {
+          "prompt": "You could never date someone who {0}, {1} or {2}",
+          "x": false
+        },
+        {
+          "prompt": "The three steps required to bake the worst loaf of bread",
+          "x": false
+        },
+        {
+          "prompt": "Three ways to take your next book club meeting up a notch",
+          "x": false
+        },
+        {
+          "prompt": "Three things that'll melt your heart EVERY. DANG. TIME.",
+          "x": false
+        },
+        {
+          "prompt": "The three unique things you offer the world are...",
+          "x": false
+        },
+        {
+          "prompt": "The three steps to becoming TikTok famous",
+          "x": false
+        },
+        {
+          "prompt": "The nation's top three internet searches, probably",
+          "x": false
+        },
+        {
+          "prompt": "Three things that only get better with age",
+          "x": false
+        },
+        {
+          "prompt": "Three ways to jazz up your boring old water",
+          "x": false
+        },
+        {
+          "prompt": "The world would be better if we had less {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "The three golden rules of the trampoline gym",
+          "x": false
+        },
+        {
+          "prompt": "What are the three things you need for the BEST. BACHELOR PARTY. EVER!!!???",
+          "x": false
+        },
+        {
+          "prompt": "You know you're about to have a bad day on Twitter if you see these three hashtags",
+          "x": false
+        },
+        {
+          "prompt": "Three flaws that should disqualify you from holding political office",
+          "x": false
+        },
+        {
+          "prompt": "The top three crimes committed in mermaid society",
+          "x": false
+        },
+        {
+          "prompt": "Three ways to \"make love\" without physical contact",
+          "x": true
+        },
+        {
+          "prompt": "The three steps to bringing back the dinosaurs",
+          "x": false
+        },
+        {
+          "prompt": "After the first seven, what are the next three deadly sins?",
+          "x": false
+        },
+        {
+          "prompt": "She's amazing! ...but what three roles would challenge even Meryl Streep?",
+          "x": false
+        },
+        {
+          "prompt": "Three deep thoughts a sloth has on an average day",
+          "x": false
+        },
+        {
+          "prompt": "The top three subjects in sad country songs",
+          "x": false
+        },
+        {
+          "prompt": "The three main goals in your first term as Ruler of Earth",
+          "x": false
+        },
+        {
+          "prompt": "The three stupidest accessories to force your dog to wear",
+          "x": false
+        },
+        {
+          "prompt": "Three Wi-Fi networks you do not want to connect to",
+          "x": false
+        },
+        {
+          "prompt": "Three internet searches you need to clear IMMEDIATELY",
+          "x": false
+        },
+        {
+          "prompt": "Three things you can be besides talented",
+          "x": false
+        },
+        {
+          "prompt": "The first three events in the Mom Decathlon",
+          "x": false
+        },
+        {
+          "prompt": "The three rudest things to microwave at work",
+          "x": false
+        },
+        {
+          "prompt": "Three things a cowboy would say besides \"Howdy\"",
+          "x": false
+        },
+        {
+          "prompt": "The names of three \"long-lost\" Kardashians",
+          "x": false
+        },
+        {
+          "prompt": "The three names they thought up before landing on \"Dress Barn\"",
+          "x": false
+        },
+        {
+          "prompt": "The three worst two-word texts you could receive",
+          "x": false
+        },
+        {
+          "prompt": "The three most satisfying things to scream from a mountaintop",
+          "x": false
+        },
+        {
+          "prompt": "Three words that can describe both a person and a pair of jeans",
+          "x": false
+        },
+        {
+          "prompt": "Three things you should never stuff a taco with",
+          "x": false
+        },
+        {
+          "prompt": "Three things they discourage you from doing in the Grand Canyon",
+          "x": false
+        },
+        {
+          "prompt": "The three things we all need to do to save planet Earth",
+          "x": false
+        },
+        {
+          "prompt": "Three things all historians will remember the 21st century for",
+          "x": false
+        },
+        {
+          "prompt": "Three rejected games for The Price Is Right",
+          "x": false
+        },
+        {
+          "prompt": "Three words that are only funny to you guys, apparently",
+          "x": false
+        },
+        {
+          "prompt": "The three lamest super powers would be...",
+          "x": false
+        },
+        {
+          "prompt": "The top three things your parents lied to you about",
+          "x": true
+        },
+        {
+          "prompt": "The three things you demand of any lover",
+          "x": true
+        },
+        {
+          "prompt": "Forget food, water and shelter. The three things you need to survive are...",
+          "x": false
+        },
+        {
+          "prompt": "Three things you'll probably never hold in your hand",
+          "x": false
+        },
+        {
+          "prompt": "Three things currently in the US President's pocket",
+          "x": false
+        },
+        {
+          "prompt": "When you think about it, there are ONLY three emotions. They are...",
+          "x": false
+        },
+        {
+          "prompt": "The only three things in life worth getting mad about",
+          "x": false
+        },
+        {
+          "prompt": "Three things EVERYONE can agree on these days",
+          "x": false
+        },
+        {
+          "prompt": "The three most common things people scream while skydiving out of a plane",
+          "x": false
+        },
+        {
+          "prompt": "Three weird fashion trends that'll never catch on",
+          "x": false
+        },
+        {
+          "prompt": "Three really ineffective safe words",
+          "x": true
+        },
+        {
+          "prompt": "The three best birthday gifts for a very sad man",
+          "x": false
+        },
+        {
+          "prompt": "The three worst materials to build your house out of",
+          "x": false
+        },
+        {
+          "prompt": "Three terrible names for a new cereal brand",
+          "x": false
+        },
+        {
+          "prompt": "Three other places to shout \"I object!\" besides a courtroom",
+          "x": false
+        },
+        {
+          "prompt": "Three Chevy car models recalled for being \"too awesome\"",
+          "x": false
+        },
+        {
+          "prompt": "Three things you'll find at the Queen's yard sale",
+          "x": false
+        },
+        {
+          "prompt": "The three things you have to do as Darth Vader's intern",
+          "x": false
+        },
+        {
+          "prompt": "Three skateboard tricks you should NEVER try",
+          "x": false
+        },
+        {
+          "prompt": "There are three types of people in the world: {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "The three steps to surgically removing your own appendix",
+          "x": false
+        },
+        {
+          "prompt": "Three rejected chicken nugget shapes",
+          "x": false
+        },
+        {
+          "prompt": "Three things a robot will need to master before they can be \"human\"",
+          "x": false
+        },
+        {
+          "prompt": "Three things to put on your wall to show how manly you are",
+          "x": false
+        },
+        {
+          "prompt": "Yeehaw! What're three things a good rodeo dang sure oughta have?",
+          "x": false
+        },
+        {
+          "prompt": "Three things you'll find in your aunt's bathroom... RIGHT NOW",
+          "x": false
+        },
+        {
+          "prompt": "Three things that instantly ruin a shirt",
+          "x": false
+        },
+        {
+          "prompt": "Three things one billion tickets will get you at the arcade prize counter",
+          "x": false
+        },
+        {
+          "prompt": "Wanna win the Kentucky Derby? The best horse trainers never let their horses {0}, {1}, or {2}",
+          "x": false
+        },
+        {
+          "prompt": "Three odd outfit choices for a horror movie slasher to wear",
+          "x": false
+        },
+        {
+          "prompt": "Three items you always see in the background of adult films",
+          "x": true
+        },
+        {
+          "prompt": "Based on your deeds, the three most likely things you'll be reincarnated as in your next life",
+          "x": false
+        },
+        {
+          "prompt": "The three gifts every dad secretly wants for Father's Day",
+          "x": false
+        },
+        {
+          "prompt": "The three terms the cool kids are using for constipation these days",
+          "x": false
+        },
+        {
+          "prompt": "Three extracurricular activities at a really, really, really rich high school",
+          "x": false
+        },
+        {
+          "prompt": "Three signs that your neighbor is upset with you",
+          "x": false
+        },
+        {
+          "prompt": "Three things your body does when you meet the love of your life",
+          "x": false
+        },
+        {
+          "prompt": "Three ways of perking yourself up when coffee isn't enough",
+          "x": true
+        },
+        {
+          "prompt": "My high school gym teacher taught me three things: {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "The three lessons we learned today",
+          "x": false
+        },
+        {
+          "prompt": "The three words that best describe your current mental state",
+          "x": false
+        },
+        {
+          "prompt": "Three things you'll find in any fanny pack",
+          "x": false
+        },
+        {
+          "prompt": "Three qualities that make a man \"marriage material\"",
+          "x": false
+        },
+        {
+          "prompt": "The last three words you'll say before you die",
+          "x": true
+        },
+        {
+          "prompt": "Three reasons you ain't getting into heaven",
+          "x": true
+        },
+        {
+          "prompt": "Three things that will happen on the best day of your life",
+          "x": false
+        },
+        {
+          "prompt": "The three items you'll find in the devil's purse",
+          "x": false
+        },
+        {
+          "prompt": "The three things that would concern you if they showed up in your dreams",
+          "x": false
+        },
+        {
+          "prompt": "Three things that'll put you right to sleep",
+          "x": false
+        },
+        {
+          "prompt": "The three things you see right before you die",
+          "x": true
+        },
+        {
+          "prompt": "Three things that'll make you grunt",
+          "x": false
+        },
+        {
+          "prompt": "Three words that could describe your family or a bowel movement",
+          "x": false
+        },
+        {
+          "prompt": "Three words that could describe the circus or your dad",
+          "x": false
+        },
+        {
+          "prompt": "Three things you might yell if you're drunk or have children",
+          "x": false
+        },
+        {
+          "prompt": "Three things that when you see them, you can't un-see them",
+          "x": false
+        },
+        {
+          "prompt": "The three worst things to suddenly feel on your shoulder",
+          "x": false
+        },
+        {
+          "prompt": "When going through airport security, make sure to remove your {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "Three easy ways to look tough",
+          "x": false
+        },
+        {
+          "prompt": "Follow these three survival tips if you're lost in the wild",
+          "x": false
+        },
+        {
+          "prompt": "Three names a kid can call their grandpa other than \"grandpa\"",
+          "x": false
+        },
+        {
+          "prompt": "My mom won't call it a \"butt.\" She calls it {0}, {1}, or {2}",
+          "x": false
+        },
+        {
+          "prompt": "The three things in your \"happy place\"",
+          "x": false
+        },
+        {
+          "prompt": "Three things the world will be dealing with next year that nobody would predict",
+          "x": false
+        },
+        {
+          "prompt": "Three weird things to make out of wood",
+          "x": false
+        },
+        {
+          "prompt": "It's not your WORST nightmare until there's {0}, {1}, and finally {2}",
+          "x": false
+        },
+        {
+          "prompt": "Three new terms for the word \"orgasm\"",
+          "x": true
+        },
+        {
+          "prompt": "The three signs that you might be pure evil are...",
+          "x": false
+        },
+        {
+          "prompt": "Three things you'd change about Superman to make him more relatable",
+          "x": false
+        },
+        {
+          "prompt": "Three secrets this group, you, right here, are hiding from each other",
+          "x": true
+        },
+        {
+          "prompt": "Three job titles that sound too good to be true",
+          "x": false
+        },
+        {
+          "prompt": "What is the world's saddest three-word story?",
+          "x": false
+        },
+        {
+          "prompt": "The three hottest trends of the summer will be {0}, {1}, and {2}",
+          "x": false
+        },
+        {
+          "prompt": "The three most important rules of your own private tickle club",
+          "x": false
+        },
+        {
+          "prompt": "The three things you better not bring to a knife fight, chump",
+          "x": false
+        },
+        {
+          "prompt": "The three things your dating profile pic better have if you want some lovin'",
+          "x": false
+        },
+        {
+          "prompt": "The original first three words of the Bible",
+          "x": false
+        },
+        {
+          "prompt": "The three words that should never appear in the same sentence",
+          "x": false
+        },
+        {
+          "prompt": "The three most surprising things hidden under sofa cushions",
+          "x": false
+        },
+        {
+          "prompt": "The three steps to a perfect surgery",
+          "x": false
+        },
+        {
+          "prompt": "According to old people, the only three things young people do these days",
+          "x": false
+        },
+        {
+          "prompt": "The three steps to having a successful makeout session",
+          "x": true
+        },
+        {
+          "prompt": "The three things you must do on your wedding day",
+          "x": false
+        },
+        {
+          "prompt": "You know you've gotten the wrong shampoo bottle when the three-step directions are {0}, {1}, {2}",
+          "x": false
+        },
+        {
+          "prompt": "The three things you should avoid eating to live ten years longer",
+          "x": false
+        },
+        {
+          "prompt": "The three lies you tell yourself are...",
+          "x": false
+        },
+        {
+          "prompt": "The three things you need to be good at to truly get ahead in life",
+          "x": false
+        },
+        {
+          "prompt": "The three steps to having a perfect little morning",
+          "x": false
+        },
+        {
+          "prompt": "Kids are made of things like \"sugar, spice, and everything nice.\" What are adults made of?",
+          "x": false
+        },
+        {
+          "prompt": "Three things you really don't want your doctor to say during an exam",
+          "x": false
+        },
+        {
+          "prompt": "Three things you always forget when you leave the house",
+          "x": false
+        },
+        {
+          "prompt": "Three things that are better when they're fast",
+          "x": false
+        },
+        {
+          "prompt": "Three things you can say to immediately get everyone's attention",
+          "x": false
+        },
+        {
+          "prompt": "The three signs that you are now... an adult",
+          "x": false
+        },
+        {
+          "prompt": "If a picture is worth a thousand words, what three words did your last selfie say?",
+          "x": false
+        },
+        {
+          "prompt": "The three stages of life are simply...",
+          "x": false
+        },
+        {
+          "prompt": "The top three ailments diagnosed by old-timey doctors",
+          "x": false
+        },
+        {
+          "prompt": "Three terrifying things to stumble across in the woods",
+          "x": false
+        },
+        {
+          "prompt": "Say three nice things about {ANYPLAYER}",
+          "x": false
+        },
+        {
+          "prompt": "Three signs you've checked into a really bad rental house",
+          "x": false
+        },
+        {
+          "prompt": "Three signs that you're slowly becoming your parents",
+          "x": false
+        },
+        {
+          "prompt": "Three words that will instantly drive you to irrational anger",
+          "x": false
+        },
+        {
+          "prompt": "Three weird things to hear a ghost moan in the middle of the night",
+          "x": false
+        },
+        {
+          "prompt": "The three best things the internet hath given to us",
+          "x": false
+        },
+        {
+          "prompt": "The three most ineffective things to write in the sand to signal a rescue plane",
+          "x": false
+        },
+        {
+          "prompt": "Three Zoom backgrounds nobody's asking for",
+          "x": false
+        },
+        {
+          "prompt": "Three things you should never get wet",
+          "x": false
+        },
+        {
+          "prompt": "Let's be positive! Name three things you're looking forward to!",
+          "x": false
+        },
+        {
+          "prompt": "Three signs you live next door to a mob boss",
+          "x": true
+        },
+        {
+          "prompt": "Three of Einstein's less impressive discoveries",
+          "x": false
+        },
+        {
+          "prompt": "Three things that are the REAL treasures we found along the way",
+          "x": false
+        },
+        {
+          "prompt": "Get positive! What are three GOOD things about being dead?",
+          "x": true
+        },
+        {
+          "prompt": "The three things you need to start that new society of yours",
+          "x": false
+        },
+        {
+          "prompt": "Three neutral things to write in a birthday card for a coworker you don't know that well",
+          "x": false
+        },
+        {
+          "prompt": "Summarize your last romantic encounter in three words",
+          "x": true
+        },
+        {
+          "prompt": "Three things you can wear to a business meeting to show you deserve respect",
+          "x": false
+        },
+        {
+          "prompt": "Three things Mars needs before we can live there",
+          "x": false
+        },
+        {
+          "prompt": "Honestly, the three greatest achievements of mankind have been...",
+          "x": false
+        },
+        {
+          "prompt": "Three pieces of advice you'd give your younger self",
+          "x": false
+        },
+        {
+          "prompt": "Let's get to know each other! Describe yourself in three words!",
+          "x": false
+        },
+        {
+          "prompt": "Three things you shouldn't do when you're angry",
+          "x": false
+        },
+        {
+          "prompt": "Three words you don't want to hear someone use to describe your genitals",
+          "x": true
+        },
+        {
+          "prompt": "Three things you'd put in a trap as bait for Ben Affleck",
+          "x": false
+        },
+        {
+          "prompt": "Three things you want to touch RIGHT NOW",
+          "x": false
+        },
+        {
+          "prompt": "Three unrealistic goals to set for yourself this year",
+          "x": false
+        },
+        {
+          "prompt": "Three secret off-menu items you can order at McDonald's",
+          "x": false
+        },
+        {
+          "prompt": "Three words that could describe both a kiss and a sandwich",
+          "x": true
+        },
+        {
+          "prompt": "Three simple truths about humanity",
+          "x": false
+        },
+        {
+          "prompt": "The three things standing between you and becoming president",
+          "x": false
+        },
+        {
+          "prompt": "The three perks to living on a pirate ship",
+          "x": false
+        },
+        {
+          "prompt": "Three nicknames you'd like to have",
+          "x": false
+        },
+        {
+          "prompt": "Three frustrating requests a website captcha can make to prove you're not a robot",
+          "x": false
+        },
+        {
+          "prompt": "Three signs you're falling in love",
+          "x": false
+        },
+        {
+          "prompt": "Three things you would say to a wolf disguised as your grandma",
+          "x": false
+        },
+        {
+          "prompt": "Three things you really thought we would have invented by now",
+          "x": false
+        },
+        {
+          "prompt": "Three things a good parent packs in their kid's backpack",
+          "x": false
+        },
+        {
+          "prompt": "The three things you MUST consider when buying a wedding ring",
+          "x": false
+        },
+        {
+          "prompt": "The three worst materials the Three Little Pigs could've built their houses out of",
+          "x": false
+        },
+        {
+          "prompt": "Three distracting things to yell as someone tries to hit a golf ball",
+          "x": false
+        },
+        {
+          "prompt": "Three ways to beat the heat this summer",
+          "x": false
+        },
+        {
+          "prompt": "The three things space aliens are thinking as they observe us from afar",
+          "x": false
+        },
+        {
+          "prompt": "Three things on your to-do list if you could spend the day with Albert Einstein",
+          "x": false
+        },
+        {
+          "prompt": "Three things you can only do in Florida",
+          "x": false
+        },
+        {
+          "prompt": "Make three bold predictions that are sure to come true in the next year",
+          "x": false
+        },
+        {
+          "prompt": "Three things that happened at the Monster Mash that they couldn't sing about",
+          "x": false
+        },
+        {
+          "prompt": "Three questions you MUST ask the owner before buying a house",
+          "x": false
+        },
+        {
+          "prompt": "The three questions you must ask yourself before starting a podcast",
+          "x": false
+        },
+        {
+          "prompt": "The three most common injuries suffered by Santa Claus",
+          "x": false
+        },
+        {
+          "prompt": "The three things you think the first time you get punched in the face",
+          "x": false
+        },
+        {
+          "prompt": "Three things that are considered bad etiquette at the gym",
+          "x": false
+        },
+        {
+          "prompt": "Three weird things for a bodybuilder to yell as they do some heavy squats",
+          "x": false
+        },
+        {
+          "prompt": "Three warnings they need to put on the side of beer cans",
+          "x": true
+        },
+        {
+          "prompt": "Your three-step plan for defeating King Kong",
+          "x": false
+        },
+        {
+          "prompt": "Three signs you're becoming boring",
+          "x": false
+        },
+        {
+          "prompt": "Three weird times to just start yelling \"Vroom! Vroom! Vroom!\"",
+          "x": false
+        },
+        {
+          "prompt": "Your three-step plan for creating a Frankenstein-style monster",
+          "x": false
+        },
+        {
+          "prompt": "The top three things overheard at nude workplaces",
+          "x": true
+        },
+        {
+          "prompt": "Your three-step plan for escaping prison that's bound to fail",
+          "x": false
+        },
+        {
+          "prompt": "Three ways to stop yourself from crying at a Pixar movie",
+          "x": false
+        },
+        {
+          "prompt": "The three act story of your life, so far",
+          "x": false
+        },
+        {
+          "prompt": "Whoa! Scientists just discovered these three surprising facts about pandas!",
+          "x": false
+        },
+        {
+          "prompt": "The three actions that'll get you banned from The Land of Oz",
+          "x": false
+        },
+        {
+          "prompt": "Three crappy excuses for not getting a kid the bike they wanted for their birthday",
+          "x": false
+        },
+        {
+          "prompt": "Three words that will get you out of any speeding ticket",
+          "x": false
+        }
+      ]
+    }
+  }
+}
