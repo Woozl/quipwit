@@ -29,3 +29,16 @@ body {
   font-style: normal;
   font-weight: 400;
 }
+
+a {
+  color: #488a5b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #64a576;
+}
+
+a:active {
+  color: #80d899;
+}
