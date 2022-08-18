@@ -14,7 +14,8 @@
   background: transparent;
   padding: 0;
   cursor: pointer;
-  outline-offset: 4px;
+  border-radius: var(--radius);
+  outline-offset: 6px;
   transition: filter 250ms;
 }
 .shadow {
