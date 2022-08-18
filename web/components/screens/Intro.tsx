@@ -6,8 +6,9 @@ const Intro = () => {
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>Quipwit</h1>
-      <Button />
       <InputCodeField />
+      <Button text="Join Game" />
+      <Button text="Create Game" />
     </div>
   );
 };
