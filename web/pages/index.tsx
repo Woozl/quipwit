@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+import GameSettings from "../components/screens/GameSettings";
 import Intro from "../components/screens/Intro";
 
 const Home: NextPage = () => {
@@ -10,7 +11,7 @@ const Home: NextPage = () => {
         <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
 
-      <Intro />
+      <GameSettings />
     </>
   );
 };

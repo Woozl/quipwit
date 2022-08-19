@@ -1,0 +1,51 @@
+.checkboxWrapper label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.checkboxWrapper input[type="checkbox"] {
+  appearance: none;
+  width: 28px;
+  height: 28px;
+  background-color: #2e294e;
+  border-radius: 8px;
+  /* outline: none; */
+  outline-color: #80d899;
+  cursor: pointer;
+}
+
+input[type="checkbox"].checked,
+input[type="checkbox"].notChecked {
+  /* background-color: #80d899; */
+  position: relative;
+}
+
+input[type="checkbox"].checked::before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background-color: #80d899;
+  border-radius: 4px;
+  position: absolute;
+  right: 4px;
+  top: 4px;
+
+  transition: width 200ms, height 200ms, right 200ms, top 200ms;
+  /* transition: height 200ms; */
+}
+
+input[type="checkbox"].notChecked::before {
+  content: "";
+  width: 0;
+  height: 0;
+  background-color: #80d899;
+  border-radius: 4px;
+  position: absolute;
+  right: 14px;
+  top: 14px;
+
+  transition: width 200ms, height 200ms, right 200ms, top 200ms;
+}
