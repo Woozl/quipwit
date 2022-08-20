@@ -1,3 +1,7 @@
+.checkboxWrapper {
+  margin: 0.5rem;
+}
+
 .checkboxWrapper label {
   display: flex;
   flex-direction: row;
@@ -12,14 +16,12 @@
   height: 28px;
   background-color: #2e294e;
   border-radius: 8px;
-  /* outline: none; */
   outline-color: #80d899;
   cursor: pointer;
 }
 
 input[type="checkbox"].checked,
 input[type="checkbox"].notChecked {
-  /* background-color: #80d899; */
   position: relative;
 }
 

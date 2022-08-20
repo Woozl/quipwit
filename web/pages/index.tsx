@@ -11,6 +11,7 @@ const Home: NextPage = () => {
         <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
 
+      {/* <Intro /> */}
       <GameSettings />
     </>
   );
