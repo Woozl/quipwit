@@ -6,6 +6,7 @@ import {
   DropResult,
   OnDragEndResponder,
 } from "react-beautiful-dnd";
+import RoundCard from "./RoundCard";
 import styles from "./RoundConfiguration.module.css";
 
 const initialRounds = [
@@ -55,13 +56,18 @@ const RoundConfiguration = () => {
             {roundList.map((round, index) => (
               <Draggable draggableId={round.id} index={index} key={round.id}>
                 {(provided) => (
-                  <div
-                    ref={provided.innerRef}
+                  // <div
+                  //   ref={provided.innerRef}
+                  //   {...provided.draggableProps}
+                  //   {...provided.dragHandleProps}
+                  // >
+                  //   {round.name}
+                  // </div>
+                  <RoundCard
+                    // ref={provided.innerRef}
                     {...provided.draggableProps}
                     {...provided.dragHandleProps}
-                  >
-                    {round.name}
-                  </div>
+                  />
                 )}
               </Draggable>
             ))}

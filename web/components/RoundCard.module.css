@@ -1,0 +1,18 @@
+.container {
+  background-color: #2e294e;
+  padding: 16px;
+  border-radius: 16px;
+}
+
+.header {
+  display: flex;
+}
+
+.header span:last-child {
+  margin-left: auto;
+}
+
+.settings {
+  display: flex;
+  flex-direction: column;
+}
