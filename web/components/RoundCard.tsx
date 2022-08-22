@@ -1,6 +1,11 @@
 import styles from "./RoundCard.module.css";
 
-const RoundCard = () => {
+interface RoundCardProps {
+  roundId: string;
+  index: number;
+}
+
+const RoundCard = ({ roundId, index }: RoundCardProps) => {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
