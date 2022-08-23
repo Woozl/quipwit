@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import GameSettings from "../components/screens/GameSettings";
+import GameSettings from "../components/screens/GameSettings/GameSettings";
 import Intro from "../components/screens/Intro";
 
 const Home: NextPage = () => {
