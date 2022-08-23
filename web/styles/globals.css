@@ -43,3 +43,22 @@ a:hover {
 a:active {
   color: #80d899;
 }
+
+::-webkit-scrollbar {
+  background-color: transparent;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d499b9;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  /* filter: brightness(0.85); */
+  background-color: #e0a7c7;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: #eec4db;
+}
