@@ -1,6 +1,6 @@
-import Button from "../Button";
-import HorizontalRule from "../HorizonalRule";
-import InputCodeField from "../InputCodeField";
+import Button from "../../Button/Button";
+import HorizontalRule from "../../HorizontalRule/HorizonalRule";
+import InputCodeField from "../../InputCodeField/InputCodeField";
 import styles from "./Intro.module.css";
 
 const Intro = () => {

@@ -1,5 +1,5 @@
-import Button from "../../Button";
-import Checkbox from "../../Checkbox";
+import Button from "../../Button/Button";
+import Checkbox from "../../Checkbox/Checkbox";
 import RoundConfiguration from "./RoundConfiguration";
 import styles from "./GameSettings.module.css";
 
