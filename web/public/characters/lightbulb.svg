@@ -1,0 +1,21 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="128" cy="228.5" rx="125" ry="24.5" fill="black" fill-opacity="0.25"/>
+<path d="M62 78.1797C61.9999 129.702 99.2204 136.365 99.2204 171.897C100.481 176.339 132.419 180.514 155.519 172.341C155.519 134.588 191 120.375 191 78.1797C191 42.9765 167.6 12 126.434 12C91.5322 12 62.0001 38.2054 62 78.1797Z" fill="#D3C43D" stroke="black" stroke-width="8" stroke-linecap="round"/>
+<path d="M99 173C110.111 180.623 152.444 175.691 156 173V221.431C153.174 222.829 150.183 223.892 147.111 224.68V233.5C133.956 241.392 115 237.5 108 232.642V223.989C103.078 222.846 100 221.704 100 221.431C100 220.714 99 188.845 99 173Z" fill="#585858"/>
+<path d="M108 223.989C103.078 222.846 100 221.704 100 221.431C100 220.714 99 188.845 99 173C110.111 180.623 152.444 175.691 156 173C156 187.499 156 217.485 156 221.431C153.174 222.829 150.183 223.892 147.111 224.68M108 223.989V232.642C115 237.5 133.956 241.392 147.111 233.5C147.111 231.348 147.111 226.437 147.111 224.68M108 223.989C117.255 226.14 133.029 228.295 147.111 224.68" stroke="black" stroke-width="8" stroke-linecap="round"/>
+<path d="M100 180C112.544 190.534 149.28 190.076 156 187.328" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M100 190C112.544 200.534 149.28 200.076 156 197.328" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M100 199C112.544 209.534 149.28 209.076 156 206.328" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M101 209C113.544 218.364 150.28 217.957 157 215.514" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<line x1="21.2409" y1="19.8709" x2="58.8709" y2="35.7591" stroke="#F4F0CF" stroke-width="8" stroke-linecap="round"/>
+<line x1="4" y1="-4" x2="45.5624" y2="-4" transform="matrix(-0.923601 0.383355 0.394641 0.918835 237.776 24)" stroke="#F4F0CF" stroke-width="8" stroke-linecap="round"/>
+<line x1="20.7889" y1="137.633" x2="55.6334" y2="120.211" stroke="#F4F0CF" stroke-width="8" stroke-linecap="round"/>
+<line x1="4" y1="-4" x2="43.6062" y2="-4" transform="matrix(-0.897449 -0.441119 -0.45335 0.891333 234.724 145)" stroke="#F4F0CF" stroke-width="8" stroke-linecap="round"/>
+<line x1="7" y1="79" x2="47" y2="79" stroke="#F4F0CF" stroke-width="8" stroke-linecap="round"/>
+<line x1="4" y1="-4" x2="45" y2="-4" transform="matrix(-1 5.31007e-09 5.49475e-09 1 251 85)" stroke="#F4F0CF" stroke-width="8" stroke-linecap="round"/>
+<circle cx="102.001" cy="61.9997" r="17" transform="rotate(24 102.001 61.9997)" fill="#D9D9D9" stroke="black" stroke-width="4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M97.7398 56.8187C102.785 59.065 108.696 56.796 110.943 51.7506C111.838 49.7401 112.016 47.5922 111.587 45.5934C110.992 45.2468 110.372 44.9289 109.729 44.6424C103.754 41.9824 97.141 42.6547 91.9725 45.8596C91.1446 50.3041 93.4286 54.8992 97.7398 56.8187Z" fill="black"/>
+<circle cx="150.999" cy="62.0002" r="17" transform="rotate(24.5 150.999 62.0002)" fill="#D9D9D9" stroke="black" stroke-width="4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M146.783 56.7822C151.809 59.0725 157.74 56.8551 160.03 51.8295C160.943 49.8269 161.139 47.6806 160.728 45.6782C160.136 45.3264 159.519 45.0031 158.878 44.711C152.927 41.9989 146.308 42.6136 141.112 45.7732C140.245 50.2103 142.489 54.8252 146.783 56.7822Z" fill="black"/>
+<path d="M114 99H139" stroke="black" stroke-width="8" stroke-linecap="round"/>
+</svg>

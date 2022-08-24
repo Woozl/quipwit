@@ -1,0 +1,12 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="128" cy="228.5" rx="125" ry="24.5" fill="black" fill-opacity="0.25"/>
+<path d="M112 22.5C106.5 25.5 92.4 36.9 80 58.5L137 170C143 175.5 157.8 198 167 198C167 187 168.83 174.935 175.5 163.5C182.5 151.5 192.5 140.5 202 126.5C221.5 143.5 226 173.5 236 184.5C241.5 173.5 248.5 141 230.5 120C250 102 239.333 73.5 237.5 55.5C233.333 59.3333 227 75.5 221.5 88C216.145 100.171 211 112.5 202 116C195.5 106.5 189.54 94.5641 167 71.5C145.5 49.5 130.333 33.1667 112 22.5Z" fill="#2E5B2D" stroke="black" stroke-width="6" stroke-linecap="round"/>
+<path d="M8 121.358C7.99989 53.3584 106 21.8584 199.5 121.358C113 218.858 8.00012 192.205 8 121.358Z" fill="#417F40" stroke="black" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M99.9999 60C90.4999 71.5 84.9999 88.5 85.4999 101" stroke="black" stroke-opacity="0.2" stroke-width="8" stroke-linecap="round"/>
+<path d="M62 152C71.8064 142.183 77.4837 127.671 76.9676 117" stroke="black" stroke-opacity="0.2" stroke-width="4" stroke-linecap="round"/>
+<path d="M75 135.532C81.5 150.532 105 160.032 129 151.032C115.5 139.532 93 133.032 75 135.532Z" fill="#2E5B2D"/>
+<path d="M121.532 69C112.032 80.5 108 90 108.5 102.5M143.531 77.5C134.031 89 131 92.5 131.5 105" stroke="black" stroke-opacity="0.2" stroke-width="8" stroke-linecap="round"/>
+<circle cx="45" cy="110" r="17" fill="#D5E6D5"/>
+<circle cx="45" cy="110" r="7" fill="black"/>
+<path d="M5.59425 136.389C4.13675 133.622 7.27407 128.724 12.4618 129.269C17.2625 129.338 25.9332 134.171 25.9126 138.525C25.892 142.879 21.5484 146.779 18.2505 149.047C14.9526 151.314 7.80924 152.742 6.10059 148.205C4.39194 143.669 8.55445 141.493 11.2842 140.473C8.25801 140.155 7.05174 139.157 5.59425 136.389Z" fill="#2E5B2D" stroke="black" stroke-width="4" stroke-miterlimit="16" stroke-linecap="round"/>
+</svg>
