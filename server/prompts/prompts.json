@@ -552,7 +552,7 @@
         },
         {
           "prompt": "A cute nickname for your butt",
-          "x": false
+          "x": true
         },
         {
           "prompt": "A comment that has NEVER been made on the internet",
@@ -756,7 +756,7 @@
         },
         {
           "prompt": "A pretty compelling reason to stop wiping your butt",
-          "x": false
+          "x": true
         },
         {
           "prompt": "The weirdest video game: {0} Simulator",
@@ -1616,7 +1616,7 @@
         },
         {
           "prompt": "The best marketing slogan for your butt",
-          "x": false
+          "x": true
         },
         {
           "prompt": "It's not all Bible study! On Wednesdays, the local church group is known to {0}",
@@ -3062,7 +3062,7 @@
         },
         {
           "prompt": "What God was thinking when he designed the butt",
-          "x": false
+          "x": true
         },
         {
           "prompt": "Oh dear, now Lin-Manuel Miranda is writing a hip-hop musical about {0}",
@@ -3114,7 +3114,7 @@
         },
         {
           "prompt": "What you might've seen in a sexy Tinder photo in 1930",
-          "x": false
+          "x": true
         },
         {
           "prompt": "A really disturbing thing a lifeguard could say during a rescue",
@@ -4392,7 +4392,7 @@
         },
         {
           "prompt": "My mom won't call it a \"butt.\" She calls it {0}, {1}, or {2}",
-          "x": false
+          "x": true
         },
         {
           "prompt": "The three things in your \"happy place\"",
