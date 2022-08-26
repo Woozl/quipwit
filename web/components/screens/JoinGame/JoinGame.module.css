@@ -1,0 +1,132 @@
+.container {
+  background-color: #5f3f78;
+  /* width: 100%; */
+  min-height: 100%;
+
+  color: #d499b9;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 4rem;
+  margin: 1rem;
+  margin-bottom: auto;
+}
+
+.charsRemaining {
+  text-align: right;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.nameField {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nameField input {
+  background-color: #e8c1c5;
+  color: #2e294e;
+  border: none;
+  font-size: 2rem;
+  max-width: 80vw;
+  padding: 8px;
+  border-radius: 16px;
+  margin: 4px;
+}
+
+.nameField h2 {
+  font-size: 2rem;
+  color: #011638;
+}
+
+.characterSelector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.characterSelector h2 {
+  font-size: 2rem;
+  color: #011638;
+}
+
+.characterGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 16px;
+  padding: 16px;
+}
+
+.characterGrid img {
+  -webkit-user-drag: none;
+  user-select: none;
+}
+
+.characterGrid input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.characterGrid input[type="radio"] + span {
+  cursor: pointer;
+}
+
+.characterGrid input[type="radio"]:checked + span {
+  outline: 4px solid #011638;
+  border-radius: 16px;
+  /* outline-offset: 4px; */
+}
+
+.joinGameButton {
+  margin: 1rem;
+  margin-top: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  .title {
+    font-size: 1.75rem;
+  }
+
+  .settings {
+    font-size: 0.75rem;
+    margin: 0rem;
+    margin-top: auto;
+  }
+
+  .nameField input {
+    font-size: 1rem;
+  }
+
+  .nameField {
+    font-size: 0.75rem;
+  }
+
+  .characterSelector h2 {
+    font-size: 1.25rem;
+  }
+
+  .nameField h2 {
+    font-size: 1.25rem;
+  }
+
+  .characterGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .center {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+}
