@@ -8,8 +8,8 @@ interface CharacterProps {
 
 const Character = ({
   character,
-  width = 150,
-  height = 150,
+  width = 128,
+  height = 128,
 }: CharacterProps) => {
   return (
     <label>
