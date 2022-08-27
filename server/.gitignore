@@ -1,6 +1,8 @@
 # compiled javascript
 dist/
 
+.vscode/
+
 # Logs
 logs
 *.log
