@@ -86,7 +86,11 @@
 .characterGrid input[type="radio"]:checked + span {
   outline: 4px solid #011638;
   border-radius: 16px;
-  /* outline-offset: 4px; */
+}
+
+.characterGrid input[type="radio"]:disabled + span {
+  filter: opacity(0.25) grayscale();
+  cursor: default;
 }
 
 .joinGameButton {
