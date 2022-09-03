@@ -1,15 +1,53 @@
-import fs from "fs";
-import path from "path";
-import readline from "readline";
-import { performance } from "perf_hooks";
-import { rejects } from "assert";
-import random from "./utils/random.js";
-import randomLine from "./utils/randomLine.js";
+import Game from "./game/Game.js";
+import { Player } from "./types.js";
 
-const PROMPTS_PATH = path.resolve("./prompts/prompts.pg.txt");
+const players: Player[] = [
+  {
+    name: "David",
+    character: "bread",
+    id: "1",
+    isHost: true,
+    points: 100,
+  },
+  {
+    name: "Billy",
+    character: "avocado",
+    id: "2",
+    isHost: true,
+    points: 100,
+  },
+  {
+    name: "John",
+    character: "egg",
+    id: "3",
+    isHost: true,
+    points: 100,
+  },
+  {
+    name: "Emma",
+    character: "cherries",
+    id: "3",
+    isHost: true,
+    points: 100,
+  },
+  {
+    name: "Ben",
+    character: "ghost",
+    id: "4",
+    isHost: true,
+    points: 100,
+  },
+  {
+    name: "George",
+    character: "hotdog",
+    id: "5",
+    isHost: true,
+    points: 100,
+  },
+];
 
-const start = process.hrtime();
-const line = await randomLine(PROMPTS_PATH);
-console.log("Execution time: ", process.hrtime(start)[1] / 1000000, "ms");
+const game = new Game();
 
-console.log(line);
+game.setPlayers(players);
+
+console.log(await game.assignPlayers(10, 2));

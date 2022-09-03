@@ -1,11 +1,11 @@
 import { Player } from "../types.js";
-import random from "./random.js";
+import { randomInt } from "./random.js";
 
 export const replaceNames = (raw: string, players: Player[]): string => {
   while (raw.includes("{ANYPLAYER}")) {
     raw = raw.replace(
       "{ANYPLAYER}",
-      players[random(0, players.length - 1)].name
+      players[randomInt(0, players.length - 1)].name
     );
   }
   return raw;

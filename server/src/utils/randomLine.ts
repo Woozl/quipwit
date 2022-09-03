@@ -1,5 +1,5 @@
 import fs from "fs";
-import random from "./random.js";
+import { randomInt } from "./random.js";
 
 /**
  * Returns a random line from a text file
@@ -12,7 +12,7 @@ const randomLine = (path: fs.PathLike, readSize = 64): Promise<string> => {
     const getLine = (recurseDepth = 256) => {
       // choose a random byte offset to read from
       const stats = fs.statSync(path);
-      const start = random(0, stats.size);
+      const start = randomInt(0, stats.size);
 
       let foundLine = false;
 
