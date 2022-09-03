@@ -9,7 +9,7 @@ const Intro = () => {
       <h1 className={styles.title}>Quipwit</h1>
       <InputCodeField />
       <Button text="Join Game" />
-      <HorizontalRule text="or" width="400px" />
+      <HorizontalRule text="or" width="200px" />
       <Button text="Create Game" />
       <footer className={styles.footer}>
         <span className={styles.howToPlay}>

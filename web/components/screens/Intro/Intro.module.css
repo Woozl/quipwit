@@ -2,8 +2,7 @@
   --font-size: 6rem;
 
   background-color: #011638;
-  height: 100vh;
-  width: 100vw;
+  min-height: 100%;
 
   display: flex;
   flex-direction: column;
@@ -17,6 +16,7 @@
   font-family: "Bungee Shade";
   font-weight: 100;
   font-size: var(--font-size);
+  text-align: center;
   line-height: var(--font-size);
   letter-spacing: 0.5rem;
   text-align: center;
@@ -28,6 +28,7 @@
   margin-top: auto;
   margin-bottom: 16px;
   color: #5f3f78;
+  text-align: center;
 
   display: flex;
   flex-direction: column;
@@ -38,4 +39,14 @@
 .howToPlay {
   color: #488a5b;
   font-size: 1.5rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .title {
+    font-size: 2.75rem;
+  }
+
+  .footer {
+    font-size: 0.75rem;
+  }
 }

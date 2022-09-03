@@ -1,5 +1,5 @@
 .container {
-  height: 5rem;
+  height: 80px;
   width: 350px;
 }
 
@@ -18,4 +18,15 @@
 .characterSelected {
   /* background-color: #d499b9; */
   background-color: #cba8ac;
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    height: 64px;
+    width: 280px;
+  }
+
+  .character {
+    line-height: 64px;
+  }
 }
