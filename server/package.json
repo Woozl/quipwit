@@ -2,7 +2,6 @@
   "name": "quipwit-server",
   "version": "0.1.0",
   "description": "",
-  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",

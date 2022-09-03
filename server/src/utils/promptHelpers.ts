@@ -1,5 +1,5 @@
-import { Player } from "../types.js";
-import { randomInt } from "./random.js";
+import { Player } from "../types";
+import { randomInt } from "./random";
 
 export const replaceNames = (raw: string, players: Player[]): string => {
   while (raw.includes("{ANYPLAYER}")) {

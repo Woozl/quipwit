@@ -1,7 +1,7 @@
-import { PROMPTS_PATH } from "../constants.js";
+import { PROMPTS_PATH } from "../constants";
 import { GameSettings, Player, RoundSettings } from "../types";
-import { randomInt } from "../utils/random.js";
-import randomLine from "../utils/randomLine.js";
+import { randomInt } from "../utils/random";
+import randomLine from "../utils/randomLine";
 
 export default class Game {
   private gameSettings: GameSettings;

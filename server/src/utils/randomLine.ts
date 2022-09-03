@@ -1,5 +1,5 @@
 import fs from "fs";
-import { randomInt } from "./random.js";
+import { randomInt } from "./random";
 
 /**
  * Returns a random line from a text file

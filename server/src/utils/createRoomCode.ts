@@ -1,4 +1,4 @@
-import { randomInt } from "./random.js";
+import { randomInt } from "./random";
 
 const createRoomCode = (length = 4): string => {
   let out = "";
