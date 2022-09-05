@@ -1,4 +1,5 @@
 import Game from "./game/Game";
+import { createMachine } from "./game/State";
 import { Player } from "./types";
 import { random, randomInt } from "./utils/random";
 
@@ -48,9 +49,47 @@ import { random, randomInt } from "./utils/random";
     },
   ];
 
-  const game = new Game();
+  const machine = createMachine({
+    initialState: "off",
+    off: {
+      actions: {
+        onEnter() {
+          console.log("off: onEnter");
+        },
+        onExit() {
+          console.log("off: onExit");
+        },
+      },
+      transistions: {
+        switch: {
+          target: "on",
+          action() {
+            console.log("transition action for switch in 'off' state");
+          },
+        },
+      },
+    },
+    on: {
+      actions: {
+        onEnter() {
+          console.log("on: onEnter");
+        },
+        onExit() {
+          console.log("on: onExit");
+        },
+      },
+      transistions: {
+        switch: {
+          target: "off",
+          action() {
+            console.log("transition action for switch in 'on' state");
+          },
+        },
+      },
+    },
+  });
 
-  game.setPlayers(players);
-
-  console.log(await game.assignPlayers(10, 2));
+  console.log(machine.value);
+  console.log(machine.transistion(machine.value, "switch"));
+  console.log(machine.transistion(machine.value, "switch"));
 })();
