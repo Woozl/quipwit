@@ -1,5 +1,6 @@
 import { PROMPTS_PATH } from "../constants";
 import { GameSettings, Player, RoundSettings } from "../types";
+import makeGrabBag from "../utils/makeGrabBag";
 import { randomInt } from "../utils/random";
 import randomLine from "../utils/randomLine";
 
@@ -47,7 +48,7 @@ export default class Game {
   async assignPlayers(numberOfQuestions: number, playersPerQuestion: number) {
     const questionAssignment = new Array(numberOfQuestions);
 
-    const bag = this.makeGrabBag(this.players.map((player) => player.name));
+    const bag = makeGrabBag(this.players.map((player) => player.name));
 
     for (let questionNum = 0; questionNum < numberOfQuestions; ++questionNum) {
       const question = {
@@ -70,26 +71,5 @@ export default class Game {
     bag.return();
 
     return questionAssignment;
-  }
-
-  private *makeGrabBag(array: any[]) {
-    let done = false;
-
-    while (!done) {
-      const bag = Array.from(array);
-
-      // Durstenfeld shuffle
-      for (let i = bag.length - 1; i >= 0; --i) {
-        const randomIndex = randomInt(0, i);
-        const tmp = bag[randomIndex];
-        bag[randomIndex] = bag[i];
-        bag[i] = tmp;
-      }
-
-      while (bag.length > 0) {
-        done = (yield bag.pop()) ?? false;
-        if (done) break;
-      }
-    }
   }
 }
