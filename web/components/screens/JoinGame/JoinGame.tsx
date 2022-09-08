@@ -52,7 +52,10 @@ const JoinGame = () => {
         </div>
       </div>
       <div className={styles.joinGameButton}>
-        <Button text="Join" />
+        <Button
+          text="Join"
+          onClick={() => console.log("Join button clicked")}
+        />
       </div>
     </div>
   );

@@ -1,3 +1,4 @@
+import Connection from "./Connection";
 import Game from "./game/Game";
 import { Player } from "./types";
 
@@ -47,33 +48,7 @@ import { Player } from "./types";
     },
   ];
 
-  const game = new Game();
+  const connection = new Connection();
 
-  players.forEach((player) => game.addPlayer(player));
-
-  game.setGameSettings({
-    allowAdultPrompts: true,
-    hostDisplay: "player",
-  });
-
-  game.setRoundSettings([
-    {
-      numberOfQuestions: 3,
-      playersPerQuestion: 2,
-      promptType: "classic",
-      questionTimeLimit: 90,
-      voteTimeLimit: 30,
-    },
-    {
-      numberOfQuestions: 4,
-      playersPerQuestion: 3,
-      promptType: "multiprompt",
-      questionTimeLimit: 90,
-      voteTimeLimit: 30,
-    },
-  ]);
-
-  game.setHost(players[3]);
-
-  game.generateRounds();
+  connection.start();
 })();
