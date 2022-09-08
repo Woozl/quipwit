@@ -8,7 +8,21 @@ export interface RoundSettings {
   questionTimeLimit: number;
   playersPerQuestion: number;
   voteTimeLimit: number;
-  promptType: "classic" | "multiprompt";
+  promptType: PromptType;
+}
+
+export type PromptType = "classic" | "multiprompt";
+
+export interface Round {
+  questions: Question[];
+  questionTimeLimit: number;
+  voteTimeLimit: number;
+}
+
+export interface Question {
+  prompt: string;
+  answeringPlayers: Player[];
+  votingPlayers: Player[];
 }
 
 export interface Player {
