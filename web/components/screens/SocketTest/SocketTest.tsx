@@ -10,14 +10,17 @@ const SocketTest = () => {
   const ws = useMemo(() => new WebSocket("ws://localhost:8080"), []);
 
   useEffect(() => {
-    if (ws) {
-      ws.onmessage = async (event: MessageEvent<Blob>) => {
-        setReceived(await event.data.text());
-      };
-    }
-
     if (sessionStorage.getItem("quipwitId") === null)
       sessionStorage.setItem("quipwitId", uuid());
+
+    ws.onopen = () => {
+      ws.send(JSON.stringify({ connect: sessionStorage.getItem("quipwitId") }));
+
+      ws.onmessage = async (event: MessageEvent<string>) => {
+        console.log(event);
+        setReceived(JSON.stringify(JSON.parse(event.data), undefined, 2));
+      };
+    };
   }, []);
 
   const sendPayload = () => {
