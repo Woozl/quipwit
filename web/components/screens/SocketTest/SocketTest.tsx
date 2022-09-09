@@ -1,11 +1,12 @@
-import { useEffect, useState } from "react";
-import { socket as ws } from "../../../utils/socket";
+import { useEffect, useMemo, useState } from "react";
 import Button from "../../Button/Button";
 import styles from "./SocketTest.module.css";
 
 const SocketTest = () => {
   const [received, setReceived] = useState("");
   const [send, setSend] = useState("");
+
+  const ws = useMemo(() => new WebSocket("ws://localhost:8080"), []);
 
   useEffect(() => {
     if (ws) {
