@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import Button from "../../Button/Button";
 import styles from "./SocketTest.module.css";
+import { v4 as uuid } from "uuid";
 
 const SocketTest = () => {
   const [received, setReceived] = useState("");
@@ -14,6 +15,9 @@ const SocketTest = () => {
         setReceived(await event.data.text());
       };
     }
+
+    if (sessionStorage.getItem("quipwitId") === null)
+      sessionStorage.setItem("quipwitId", uuid());
   }, []);
 
   const sendPayload = () => {
