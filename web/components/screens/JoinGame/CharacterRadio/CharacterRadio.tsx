@@ -1,18 +1,18 @@
-import Image from "next/image";
+import Character from "../../../Character/Character";
 
-interface CharacterProps {
+interface CharacterRadioProps {
   character: string;
   width?: number;
   height?: number;
   disabled?: boolean;
 }
 
-const Character = ({
+const CharacterRadio = ({
   character,
   width = 128,
   height = 128,
   disabled = false,
-}: CharacterProps) => {
+}: CharacterRadioProps) => {
   return (
     <label>
       <input
@@ -21,13 +21,9 @@ const Character = ({
         value={character}
         disabled={disabled}
       />
-      <Image
-        src={`/characters/${character}.svg`}
-        width={width}
-        height={height}
-      />
+      <Character character={character} width={width} height={height} />
     </label>
   );
 };
 
-export default Character;
+export default CharacterRadio;

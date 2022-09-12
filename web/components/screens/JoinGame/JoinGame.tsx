@@ -1,6 +1,6 @@
 import { ChangeEvent, FormEvent, useState } from "react";
 import Button from "../../Button/Button";
-import Character from "./Character/Character";
+import CharacterRadio from "./CharacterRadio/CharacterRadio";
 import styles from "./JoinGame.module.css";
 
 const MAX_NAME_LENGTH = 20;
@@ -38,16 +38,16 @@ const JoinGame = () => {
             className={styles.characterGrid}
             onChange={handleCharacterChange}
           >
-            <Character character="bread" />
-            <Character character="diamond" />
-            <Character character="hotdog" />
-            <Character character="egg" />
-            <Character character="heart" />
-            <Character character="ghost" />
-            <Character character="fish" />
-            <Character character="cherries" />
-            <Character character="lightbulb" />
-            <Character character="avocado" />
+            <CharacterRadio character="bread" />
+            <CharacterRadio character="diamond" />
+            <CharacterRadio character="hotdog" />
+            <CharacterRadio character="egg" />
+            <CharacterRadio character="heart" />
+            <CharacterRadio character="ghost" />
+            <CharacterRadio character="fish" />
+            <CharacterRadio character="cherries" />
+            <CharacterRadio character="lightbulb" />
+            <CharacterRadio character="avocado" />
           </div>
         </div>
       </div>
