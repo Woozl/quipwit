@@ -1,4 +1,5 @@
 import WebSocket, { WebSocketServer } from "ws";
+import { getErrorMessage } from "./utils/getErrorMessage";
 
 export default class Connection {
   private readonly wss: WebSocketServer;
@@ -13,30 +14,34 @@ export default class Connection {
   }
 
   start() {
+    this.wss.clients;
+
     this.wss.on("connection", (ws) => {
       console.log("client connected");
 
       ws.on("message", (data) => {
-        // console.log("data received: ", data.toString("utf8"));
-
-        // ws.send(data);
-        // console.log("data sent: ", data.toString("utf8"));
-
         try {
           const message = JSON.parse(data.toString("utf8"));
 
-          if (message.connect !== undefined) {
-            this.clients.set(message.connect, ws);
-            console.log("Added client", message.connect);
-          }
-
-          if (message.disconnect !== undefined) {
-            this.clients.delete(message.disconnect);
-            console.log("Removed client", message.connect);
+          switch (message.event) {
+            case "connect":
+              this.clients.set(message.data, ws);
+              console.log("Added client: ", message.data);
+              break;
+            case "disconnect":
+              this.clients.delete(message.data);
+              console.log("Removed client: ", message.data);
+              break;
+            case undefined:
+              console.log("Sending back: ", JSON.stringify(message));
+              ws.send(JSON.stringify(message));
+              break;
           }
         } catch (e) {
           if (e instanceof SyntaxError) {
             ws.send(JSON.stringify({ error: "Invalid JSON" }));
+          } else {
+            ws.send(JSON.stringify({ error: getErrorMessage(e) }));
           }
         }
       });

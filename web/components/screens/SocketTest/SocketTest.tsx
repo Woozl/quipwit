@@ -14,10 +14,14 @@ const SocketTest = () => {
       sessionStorage.setItem("quipwitId", uuid());
 
     ws.onopen = () => {
-      ws.send(JSON.stringify({ connect: sessionStorage.getItem("quipwitId") }));
+      ws.send(
+        JSON.stringify({
+          event: "connect",
+          data: sessionStorage.getItem("quipwitId"),
+        })
+      );
 
       ws.onmessage = async (event: MessageEvent<string>) => {
-        console.log(event);
         setReceived(JSON.stringify(JSON.parse(event.data), undefined, 2));
       };
     };
