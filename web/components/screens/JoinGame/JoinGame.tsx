@@ -55,6 +55,7 @@ const JoinGame = () => {
         <Button
           text="Join"
           onClick={() => console.log("Join button clicked")}
+          color="purple"
         />
       </div>
     </div>
