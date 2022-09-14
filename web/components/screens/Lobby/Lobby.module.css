@@ -1,0 +1,100 @@
+.container {
+  background-color: #5f3f78;
+  min-height: 100%;
+
+  color: #d499b9;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 4rem;
+  margin-top: 1rem;
+  margin-bottom: auto;
+}
+
+.center {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
+
+.center h2 {
+  color: #011638;
+  padding: 8px;
+  margin: 8px;
+}
+
+.roundsContainer {
+}
+
+.roundList {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  color: #e8c1c5;
+
+  height: 55vh;
+  max-width: 50vw;
+  overflow-y: auto;
+  padding: 16px;
+}
+
+.round {
+  background-color: #2e294e;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.playersContainer {
+}
+
+.playerList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  height: 55vh;
+  max-width: 30vw;
+  overflow-y: auto;
+  padding: 16px;
+}
+
+.player {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.player h3 {
+  font-size: 1.2rem;
+}
+
+.startGameButton {
+  margin: 1rem;
+  margin-top: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  .title {
+    font-size: 1.75rem;
+  }
+
+  .center {
+    margin-top: 16px;
+    margin-bottom: 16px;
+
+    flex-direction: column-reverse;
+  }
+
+  .playersContainer {
+    width: 100%;
+  }
+
+  .playerList {
+    width: 100%;
+  }
+}

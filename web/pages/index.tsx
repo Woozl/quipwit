@@ -4,6 +4,7 @@ import Head from "next/head";
 import GameSettings from "../components/screens/GameSettings/GameSettings";
 import Intro from "../components/screens/Intro/Intro";
 import JoinGame from "../components/screens/JoinGame/JoinGame";
+import Lobby from "../components/screens/Lobby/Lobby";
 
 const SocketTest = dynamic(
   () => import("../components/screens/SocketTest/SocketTest"),
@@ -23,7 +24,66 @@ const Home: NextPage = () => {
       {/* <Intro /> */}
       {/* <GameSettings /> */}
       {/* <JoinGame /> */}
-      <SocketTest />
+      <Lobby
+        roomCode="XJSK"
+        players={[
+          { id: 1, name: "Bob", character: "avocado" },
+          { id: 2, name: "Jim", character: "bread" },
+          { id: 3, name: "Jacob", character: "cherries" },
+          { id: 4, name: "Ella", character: "diamond" },
+          { id: 5, name: "Anna", character: "egg" },
+          { id: 6, name: "George", character: "fish", isHost: true },
+          { id: 7, name: "Mary", character: "ghost" },
+          { id: 8, name: "Jerry", character: "heart" },
+          { id: 9, name: "Steve", character: "hotdog" },
+          { id: 10, name: "Sam", character: "lightbulb" },
+        ]}
+        rounds={[
+          {
+            id: 1,
+            numberOfQuestions: 3,
+            questionTimeLimit: 90,
+            voteTimeLimit: 30,
+            questionType: "prompt",
+          },
+          {
+            id: 2,
+            numberOfQuestions: 3,
+            questionTimeLimit: 60,
+            voteTimeLimit: 30,
+            questionType: "prompt",
+          },
+          {
+            id: 3,
+            numberOfQuestions: 3,
+            questionTimeLimit: 45,
+            voteTimeLimit: 30,
+            questionType: "multiprompt",
+          },
+          {
+            id: 1,
+            numberOfQuestions: 3,
+            questionTimeLimit: 90,
+            voteTimeLimit: 30,
+            questionType: "prompt",
+          },
+          {
+            id: 2,
+            numberOfQuestions: 3,
+            questionTimeLimit: 60,
+            voteTimeLimit: 30,
+            questionType: "prompt",
+          },
+          {
+            id: 3,
+            numberOfQuestions: 3,
+            questionTimeLimit: 45,
+            voteTimeLimit: 30,
+            questionType: "multiprompt",
+          },
+        ]}
+      />
+      {/* <SocketTest /> */}
     </>
   );
 };
