@@ -1,3 +1,4 @@
+import { ChangeEvent, useCallback, useState } from "react";
 import Button from "../../Button/Button";
 import styles from "./QuestionForm.module.css";
 
@@ -16,6 +17,21 @@ const QuestionForm = ({
   questionText,
   numberOfPromptFields,
 }: QuestionFormProps) => {
+  const [answers, setAnswers] = useState<string[]>(
+    new Array(numberOfPromptFields).fill("")
+  );
+
+  const promptChangeHandler = useCallback(
+    (index: number, e: ChangeEvent<HTMLInputElement>) => {
+      console.log(e.target.value);
+      setAnswers((prevAnswers) => {
+        prevAnswers[index] = e.target.value;
+        return prevAnswers.slice();
+      });
+    },
+    []
+  );
+
   return (
     <div className={styles.container}>
       <header className={styles.header}>
@@ -28,7 +44,11 @@ const QuestionForm = ({
       <div className={styles.promptContainer}>
         <div className={styles.prompts}>
           {[...new Array(numberOfPromptFields)].map((_, i) => (
-            <input className={styles.promptInput} />
+            <input
+              key={i}
+              className={styles.promptInput}
+              onChange={(event) => promptChangeHandler(i, event)}
+            />
           ))}
         </div>
         <div className={styles.submitButton}>
