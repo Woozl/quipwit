@@ -5,6 +5,7 @@ import GameSettings from "../components/screens/GameSettings/GameSettings";
 import Intro from "../components/screens/Intro/Intro";
 import JoinGame from "../components/screens/JoinGame/JoinGame";
 import Lobby from "../components/screens/Lobby/Lobby";
+import QuestionForm from "../components/screens/QuestionForm/QuestionForm";
 
 const SocketTest = dynamic(
   () => import("../components/screens/SocketTest/SocketTest"),
@@ -24,7 +25,7 @@ const Home: NextPage = () => {
       {/* <Intro /> */}
       {/* <GameSettings /> */}
       {/* <JoinGame /> */}
-      <Lobby
+      {/* <Lobby
         roomCode="XJSK"
         players={[
           { id: 1, name: "Bob", character: "avocado" },
@@ -82,6 +83,13 @@ const Home: NextPage = () => {
             questionType: "multiprompt",
           },
         ]}
+      /> */}
+      <QuestionForm
+        currentQuestion={1}
+        numberOfQuestions={3}
+        numberOfPromptFields={1}
+        roundId={2}
+        questionText="A bad thing to say to a cop as he writes you a speeding ticket"
       />
       {/* <SocketTest /> */}
     </>
