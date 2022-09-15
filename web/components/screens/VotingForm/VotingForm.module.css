@@ -12,6 +12,7 @@
   display: flex;
   justify-content: space-between;
   padding: 16px;
+  text-align: center;
 
   color: #9055a2;
   font-size: 1.5rem;
@@ -30,6 +31,8 @@
   align-self: center;
   gap: 16px;
   max-width: 600px;
+  margin-left: 16px;
+  margin-right: 16px;
   text-align: center;
 }
 
@@ -59,4 +62,21 @@
 .voteButton {
   padding: 1rem;
   align-self: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .header {
+    font-size: 0.75rem;
+    padding: 0.5rem;
+  }
+
+  .question {
+    font-size: 1.5rem;
+  }
+
+  .answerContainer input[type="radio"] + p {
+    font-size: 1rem;
+    padding: 8px;
+    border-radius: 16px;
+  }
 }
