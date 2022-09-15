@@ -12,6 +12,7 @@
   display: flex;
   justify-content: space-between;
   padding: 16px;
+  text-align: center;
 
   color: #9055a2;
   font-size: 1.5rem;
@@ -19,7 +20,9 @@
 
 .question {
   font-size: 3rem;
+  max-width: 800px;
   text-align: center;
+  align-self: center;
 }
 
 .promptContainer {
@@ -44,6 +47,35 @@
   border: none;
 }
 
+.promptInput:focus {
+  outline: 3px solid #80d899;
+}
+
 .submitButton {
   align-self: flex-end;
+}
+
+@media only screen and (max-width: 768px) {
+  .header {
+    font-size: 0.75rem;
+    padding: 0.5rem;
+  }
+
+  .question {
+    font-size: 1.5rem;
+  }
+
+  .promptContainer {
+    flex-direction: column;
+  }
+
+  .promptInput {
+    font-size: 1rem;
+    padding: 12px;
+    border-radius: 16px;
+  }
+
+  .submitButton {
+    align-self: center;
+  }
 }

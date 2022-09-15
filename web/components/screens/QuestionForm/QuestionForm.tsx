@@ -23,7 +23,6 @@ const QuestionForm = ({
 
   const promptChangeHandler = useCallback(
     (index: number, e: ChangeEvent<HTMLInputElement>) => {
-      console.log(e.target.value);
       setAnswers((prevAnswers) => {
         prevAnswers[index] = e.target.value;
         return prevAnswers.slice();
