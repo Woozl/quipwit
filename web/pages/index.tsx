@@ -6,6 +6,7 @@ import Intro from "../components/screens/Intro/Intro";
 import JoinGame from "../components/screens/JoinGame/JoinGame";
 import Lobby from "../components/screens/Lobby/Lobby";
 import QuestionForm from "../components/screens/QuestionForm/QuestionForm";
+import VotingForm from "../components/screens/VotingForm/VotingForm";
 
 const SocketTest = dynamic(
   () => import("../components/screens/SocketTest/SocketTest"),
@@ -84,12 +85,23 @@ const Home: NextPage = () => {
           },
         ]}
       /> */}
-      <QuestionForm
+      {/* <QuestionForm
         currentQuestion={1}
         numberOfQuestions={3}
         numberOfPromptFields={3}
         roundId={2}
         questionText="A bad thing to say to a cop as he writes you a speeding ticket"
+      /> */}
+      <VotingForm
+        currentQuestion={1}
+        numberOfQuestions={3}
+        roundId={2}
+        questionText="A bad thing to say to a cop as he writes you a speeding ticket"
+        answers={[
+          "An absolutely faaabulous way to die",
+          'How to turn farming into "high fashion"',
+          "An awesome side effect of climate change, hopefully",
+        ]}
       />
       {/* <SocketTest /> */}
     </>
