@@ -87,7 +87,7 @@ const Home: NextPage = () => {
       <QuestionForm
         currentQuestion={1}
         numberOfQuestions={3}
-        numberOfPromptFields={1}
+        numberOfPromptFields={3}
         roundId={2}
         questionText="A bad thing to say to a cop as he writes you a speeding ticket"
       />

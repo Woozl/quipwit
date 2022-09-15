@@ -26,11 +26,17 @@ const QuestionForm = ({
       </header>
       <h1 className={styles.question}>{questionText}</h1>
       <div className={styles.promptContainer}>
-        <input className={styles.promptInput} />
-        <Button
-          text="Submit"
-          onClick={() => console.log("Submit Button Pressed")}
-        />
+        <div className={styles.prompts}>
+          {[...new Array(numberOfPromptFields)].map((_, i) => (
+            <input className={styles.promptInput} />
+          ))}
+        </div>
+        <div className={styles.submitButton}>
+          <Button
+            text="Submit"
+            onClick={() => console.log("Submit Button Pressed")}
+          />
+        </div>
       </div>
     </div>
   );
