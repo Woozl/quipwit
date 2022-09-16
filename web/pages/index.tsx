@@ -26,7 +26,7 @@ const Home: NextPage = () => {
       {/* <Intro /> */}
       {/* <GameSettings /> */}
       {/* <JoinGame /> */}
-      {/* <Lobby
+      <Lobby
         roomCode="XJSK"
         players={[
           { id: 1, name: "Bob", character: "avocado" },
@@ -84,14 +84,14 @@ const Home: NextPage = () => {
             questionType: "multiprompt",
           },
         ]}
-      /> */}
-      <QuestionForm
+      />
+      {/* <QuestionForm
         currentQuestion={1}
         numberOfQuestions={3}
         numberOfPromptFields={3}
         roundId={2}
         questionText="A bad thing to say to a cop as he writes you a speeding ticket"
-      />
+      /> */}
       {/* <VotingForm
         currentQuestion={1}
         numberOfQuestions={3}

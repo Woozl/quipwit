@@ -1,6 +1,6 @@
 .container {
   background-color: #5f3f78;
-  min-height: 100%;
+  height: 100%;
 
   color: #d499b9;
 
@@ -8,15 +8,19 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  gap: 32px;
 }
 
 .title {
   font-size: 4rem;
   margin-top: 1rem;
   margin-bottom: auto;
+  text-align: center;
 }
 
 .center {
+  flex-grow: 1;
+  overflow: auto;
   display: flex;
   flex-direction: row;
   gap: 32px;
@@ -24,11 +28,13 @@
 
 .center h2 {
   color: #011638;
-  padding: 8px;
-  margin: 8px;
+  margin-left: 16px;
+  transform: translateY(-2rem);
+  position: fixed;
 }
 
 .roundsContainer {
+  overflow-y: scroll;
 }
 
 .roundList {
@@ -37,10 +43,11 @@
   gap: 16px;
   color: #e8c1c5;
 
-  height: 55vh;
-  max-width: 50vw;
-  overflow-y: auto;
   padding: 16px;
+}
+
+.playersContainer {
+  overflow-y: scroll;
 }
 
 .round {
@@ -49,17 +56,10 @@
   padding: 16px;
 }
 
-.playersContainer {
-}
-
 .playerList {
   display: flex;
   flex-direction: column;
   gap: 8px;
-
-  height: 55vh;
-  max-width: 30vw;
-  overflow-y: auto;
   padding: 16px;
 }
 
@@ -79,6 +79,10 @@
 }
 
 @media only screen and (max-width: 768px) {
+  .container {
+    gap: 0px;
+  }
+
   .title {
     font-size: 1.75rem;
   }
@@ -86,15 +90,23 @@
   .center {
     margin-top: 16px;
     margin-bottom: 16px;
-
     flex-direction: column-reverse;
+
+    overflow-y: auto;
+    width: 100%;
+    padding: 0 16px 0 16px;
+  }
+
+  .center h2 {
+    position: relative;
+    transform: translate(0);
+  }
+
+  .roundsContainer {
+    overflow-y: visible;
   }
 
   .playersContainer {
-    width: 100%;
-  }
-
-  .playerList {
-    width: 100%;
+    overflow-y: visible;
   }
 }
