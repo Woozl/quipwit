@@ -51,10 +51,9 @@ const QuestionForm = ({
           ))}
         </div>
         <div className={styles.submitButton}>
-          <Button
-            text="Submit"
-            onClick={() => console.log("Submit Button Pressed")}
-          />
+          <Button onClick={() => console.log("Submit Button Pressed")}>
+            Submit
+          </Button>
         </div>
       </div>
     </div>

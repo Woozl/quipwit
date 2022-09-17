@@ -13,11 +13,9 @@ const GameSettings = () => {
         <Checkbox label="Allow non-PG prompts" />
       </div>
       <div className={styles.createGameButton}>
-        <Button
-          text="Create"
-          onClick={() => console.log("Create clicked")}
-          color="purple"
-        />
+        <Button onClick={() => console.log("Create clicked")} color="purple">
+          Create
+        </Button>
       </div>
     </div>
   );

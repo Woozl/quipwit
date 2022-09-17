@@ -49,7 +49,9 @@ const SocketTest = () => {
         tabIndex={-1}
         onChange={({ target: { value } }) => setSend(value)}
       />
-      <Button text="Send" onClick={sendPayload} />
+      <Button color="purple" onClick={sendPayload}>
+        Send
+      </Button>
     </div>
   );
 };

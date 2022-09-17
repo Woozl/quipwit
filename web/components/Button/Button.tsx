@@ -2,14 +2,14 @@ import { CSSProperties, MouseEventHandler } from "react";
 import styles from "./Button.module.css";
 
 interface ButtonProps {
-  text: string;
   onClick: MouseEventHandler<HTMLButtonElement>;
   style?: CSSProperties;
   color?: "green" | "purple";
+  children: React.ReactNode;
 }
 
 const Button = ({
-  text,
+  children,
   onClick,
   style,
   color: version = "green",
@@ -42,7 +42,7 @@ const Button = ({
               }
         }
       ></span>
-      <span className={styles.front}>{text}</span>
+      <span className={styles.front}>{children}</span>
     </button>
   );
 };

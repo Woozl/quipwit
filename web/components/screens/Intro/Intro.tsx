@@ -8,15 +8,13 @@ const Intro = () => {
     <div className={styles.container}>
       <h1 className={styles.title}>Quipwit</h1>
       <InputCodeField />
-      <Button
-        text="Join Game"
-        onClick={() => console.log("Join button clicked")}
-      />
+      <Button onClick={() => console.log("Join button clicked")}>
+        Join Game
+      </Button>
       <HorizontalRule text="or" width="200px" />
-      <Button
-        text="Create Game"
-        onClick={() => console.log("Create button clicked")}
-      />
+      <Button onClick={() => console.log("Create button clicked")}>
+        Create Game
+      </Button>
       <footer className={styles.footer}>
         <span className={styles.howToPlay}>
           <a href="#">How to play</a>

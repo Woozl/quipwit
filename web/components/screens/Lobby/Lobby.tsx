@@ -69,10 +69,11 @@ const Lobby = ({ roomCode, rounds, players }: LobbyProps) => {
       </div>
       <div className={styles.startGameButton}>
         <Button
-          text="Start Game"
           onClick={() => console.log("Start game clicked")}
           color="purple"
-        />
+        >
+          Start Game
+        </Button>
       </div>
     </div>
   );

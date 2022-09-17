@@ -43,10 +43,7 @@ const VotingForm = ({
         ))}
       </div>
       <div className={styles.voteButton}>
-        <Button
-          text="Vote"
-          onClick={() => console.log("Vote button clicked")}
-        />
+        <Button onClick={() => console.log("Vote button clicked")}>Vote</Button>
       </div>
     </div>
   );
