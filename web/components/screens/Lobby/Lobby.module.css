@@ -34,7 +34,7 @@
 }
 
 .roundsContainer {
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .roundList {
@@ -47,7 +47,7 @@
 }
 
 .playersContainer {
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .round {

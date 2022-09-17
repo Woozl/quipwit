@@ -62,27 +62,6 @@ const Home: NextPage = () => {
             voteTimeLimit: 30,
             questionType: "multiprompt",
           },
-          {
-            id: 1,
-            numberOfQuestions: 3,
-            questionTimeLimit: 90,
-            voteTimeLimit: 30,
-            questionType: "prompt",
-          },
-          {
-            id: 2,
-            numberOfQuestions: 3,
-            questionTimeLimit: 60,
-            voteTimeLimit: 30,
-            questionType: "prompt",
-          },
-          {
-            id: 3,
-            numberOfQuestions: 3,
-            questionTimeLimit: 45,
-            voteTimeLimit: 30,
-            questionType: "multiprompt",
-          },
         ]}
       />
       {/* <QuestionForm
