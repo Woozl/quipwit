@@ -36,7 +36,7 @@ const VotingForm = ({
       <h1 className={styles.question}>{questionText}</h1>
       <div className={styles.answerContainer} onChange={handleAnswerChange}>
         {answers.map((answer, i) => (
-          <label>
+          <label key={i}>
             <input type="radio" value={answer} name="answer" />
             <p>{answer}</p>
           </label>
