@@ -2,12 +2,13 @@ import { useEffect, useMemo, useState } from "react";
 import Button from "../../Button/Button";
 import styles from "./SocketTest.module.css";
 import { v4 as uuid } from "uuid";
+import { useSocket } from "../../../context/SocketProvider";
 
 const SocketTest = () => {
   const [received, setReceived] = useState("");
   const [send, setSend] = useState("");
 
-  const ws = useMemo(() => new WebSocket("ws://localhost:8080"), []);
+  const ws = useSocket();
 
   useEffect(() => {
     if (sessionStorage.getItem("quipwitId") === null)
