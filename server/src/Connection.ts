@@ -14,8 +14,6 @@ export default class Connection {
   }
 
   start() {
-    this.wss.clients;
-
     this.wss.on("connection", (ws) => {
       console.log("client connected");
 
