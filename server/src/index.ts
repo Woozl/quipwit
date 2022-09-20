@@ -1,6 +1,9 @@
+import { WebSocketServer } from "ws";
+import { z } from "zod";
 import Connection from "./Connection";
 import Game from "./game/Game";
 import { Player } from "./types";
+import { getErrorMessage } from "./utils/getErrorMessage";
 
 (async () => {
   const players: Player[] = [
@@ -48,7 +51,42 @@ import { Player } from "./types";
     },
   ];
 
-  const connection = new Connection();
+  // const connection = new Connection();
+  // connection.start();
 
-  connection.start();
+  const wss = new WebSocketServer({ port: 8080 });
+
+  wss.on("connection", (ws) => {
+    ws.on("message", (data) => {
+      // check that received data is valid JSON
+      let message: string | {} = "";
+      try {
+        message = JSON.parse(data.toString("utf8"));
+      } catch (e: unknown) {
+        if (e instanceof SyntaxError) {
+          ws.send(JSON.stringify({ error: "Invalid JSON" }));
+        } else {
+          ws.send(JSON.stringify({ error: getErrorMessage(e) }));
+        }
+        throw new Error("Received bad JSON!");
+      }
+
+      // use zod to check if json conforms to type interface
+      const responseSchema = z.object({
+        userId: z.string().uuid(),
+        event: z.object({
+          name: z.string(),
+          data: z.any(),
+        }),
+      });
+
+      responseSchema.parse(message);
+
+      const response = message as z.infer<typeof responseSchema>;
+
+      // event methods
+    });
+  });
+
+  const connections = new Map<string, Game>();
 })();
