@@ -1,5 +1,5 @@
 import { WebSocketServer } from "ws";
-import { z } from "zod";
+import { z, ZodError } from "zod";
 import Connection from "./Connection";
 import Game from "./game/Game";
 import { Player } from "./types";
@@ -68,7 +68,8 @@ import { getErrorMessage } from "./utils/getErrorMessage";
         } else {
           ws.send(JSON.stringify({ error: getErrorMessage(e) }));
         }
-        throw new Error("Received bad JSON!");
+        // throw new Error("Received bad JSON!");
+        console.warn("Received bad JSON");
       }
 
       // use zod to check if json conforms to type interface
@@ -80,11 +81,22 @@ import { getErrorMessage } from "./utils/getErrorMessage";
         }),
       });
 
-      responseSchema.parse(message);
+      try {
+        responseSchema.parse(message);
+      } catch (e: unknown) {
+        if (e instanceof ZodError) {
+          console.error(e);
+          ws.send(JSON.stringify({ error: JSON.parse(e.message) }));
+        } else {
+          ws.send(JSON.stringify({ error: "JSON does not fit schema" }));
+        }
+        return;
+      }
 
       const response = message as z.infer<typeof responseSchema>;
 
       // event methods
+      ws.send(JSON.stringify(response));
     });
   });
 
