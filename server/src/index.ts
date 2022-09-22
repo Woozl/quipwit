@@ -96,7 +96,17 @@ import { getErrorMessage } from "./utils/getErrorMessage";
       const response = message as z.infer<typeof responseSchema>;
 
       // event methods
-      ws.send(JSON.stringify(response));
+      switch (response.event.name) {
+        case "connect":
+          console.log(response.userId, "has connected");
+          break;
+        case "disconnect":
+          console.log(response.userId, "has disconnected");
+          break;
+        default:
+          console.log(response);
+          break;
+      }
     });
   });
 
