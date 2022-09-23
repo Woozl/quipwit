@@ -57,7 +57,7 @@ import { getErrorMessage } from "./utils/getErrorMessage";
 
   const wss = new WebSocketServer({ port: 8080 });
 
-  const playerToGameIdMap = new Map<string, string>();
+  const playerToGameIdMap = new Map<string, string | null>();
   const gameIdToGameMap = new Map<string, Game>();
 
   wss.on("connection", (ws) => {
@@ -80,7 +80,7 @@ import { getErrorMessage } from "./utils/getErrorMessage";
       const responseSchema = z.object({
         userId: z.string().uuid(),
         event: z.object({
-          name: z.enum(["connect", "disconnect"]),
+          name: z.enum(["connect", "disconnect", "join"]),
           data: z.any(),
         }),
       });
@@ -103,16 +103,29 @@ import { getErrorMessage } from "./utils/getErrorMessage";
       switch (response.event.name) {
         case "connect":
           if (playerToGameIdMap.has(response.userId)) {
+            ws.send(JSON.stringify({ error: "User already in server" }));
           } else {
+            playerToGameIdMap.set(response.userId, null);
           }
           break;
         case "disconnect":
           console.log(response.userId, "has disconnected");
           break;
+        case "join":
+          if (!playerToGameIdMap.has(response.userId)) {
+            ws.send(JSON.stringify({ error: "User is not in server" }));
+          } else if (playerToGameIdMap.get(response.userId) !== null) {
+            ws.send(JSON.stringify({ error: "User is already in a game" }));
+          } else {
+            playerToGameIdMap.set(response.userId, response.event.data.gameId);
+          }
+          break;
         default:
           console.log(response);
           break;
       }
+
+      console.log(playerToGameIdMap);
     });
   });
 })();
