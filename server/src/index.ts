@@ -1,3 +1,4 @@
+import { connect } from "http2";
 import { WebSocketServer } from "ws";
 import { z, ZodError } from "zod";
 import Connection from "./Connection";
@@ -56,6 +57,9 @@ import { getErrorMessage } from "./utils/getErrorMessage";
 
   const wss = new WebSocketServer({ port: 8080 });
 
+  const playerToGameIdMap = new Map<string, string>();
+  const gameIdToGameMap = new Map<string, Game>();
+
   wss.on("connection", (ws) => {
     ws.on("message", (data) => {
       // check that received data is valid JSON
@@ -76,7 +80,7 @@ import { getErrorMessage } from "./utils/getErrorMessage";
       const responseSchema = z.object({
         userId: z.string().uuid(),
         event: z.object({
-          name: z.string(),
+          name: z.enum(["connect", "disconnect"]),
           data: z.any(),
         }),
       });
@@ -98,7 +102,9 @@ import { getErrorMessage } from "./utils/getErrorMessage";
       // event methods
       switch (response.event.name) {
         case "connect":
-          console.log(response.userId, "has connected");
+          if (playerToGameIdMap.has(response.userId)) {
+          } else {
+          }
           break;
         case "disconnect":
           console.log(response.userId, "has disconnected");
@@ -109,6 +115,4 @@ import { getErrorMessage } from "./utils/getErrorMessage";
       }
     });
   });
-
-  const connections = new Map<string, Game>();
 })();
