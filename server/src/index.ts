@@ -74,6 +74,7 @@ import { getErrorMessage } from "./utils/getErrorMessage";
         }
         // throw new Error("Received bad JSON!");
         console.warn("Received bad JSON");
+        return;
       }
 
       // use zod to check if json conforms to type interface
@@ -109,7 +110,11 @@ import { getErrorMessage } from "./utils/getErrorMessage";
           }
           break;
         case "disconnect":
-          console.log(response.userId, "has disconnected");
+          if (!playerToGameIdMap.has(response.userId)) {
+            ws.send(JSON.stringify({ error: "User is not in server" }));
+          } else {
+            playerToGameIdMap.delete(response.userId);
+          }
           break;
         case "join":
           if (!playerToGameIdMap.has(response.userId)) {
